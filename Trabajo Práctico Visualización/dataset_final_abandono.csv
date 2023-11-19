@@ -1,0 +1,1178 @@
+,codigo_centro,codigo_titulacion,nombre_titulacion,porcentaje_abandono,numero_abandonos,numero_matriculados,anyo,duracion_carrera
+0,1,151,grado en administracion y direccion de empresas,0.374749498997996,187.0,499.0,2021,4.0
+1,5,153,grado en biologia,0.0845771144278607,17.0,201.0,2021,4.0
+2,18,154,grado en ciencias de la actividad fisica y del deporte,0.08943089430894309,11.0,123.0,2021,4.0
+3,20,155,grado en derecho,0.14466546112115733,80.0,553.0,2021,4.0
+4,1,156,grado en economia,0.28402366863905326,48.0,169.0,2021,4.0
+5,11,157,grado en enfermeria,0.17716535433070865,45.0,254.0,2021,4.0
+6,19,158,grado en famarcia,0.0945945945945946,28.0,296.0,2021,4.0
+7,16,159,grado en filologia hispanica,0.29457364341085274,38.0,129.0,2021,4.0
+8,12,160,grado en filosofia,0.4153846153846154,27.0,65.0,2021,4.0
+9,7,161,grado en finanzas y contabilidad,0.5037783375314862,200.0,397.0,2021,5.0
+10,6,162,grado en fisica,0.21929824561403508,25.0,114.0,2021,4.0
+11,11,163,grado en fisioterapia,0.2,24.0,120.0,2021,4.0
+12,4,164,grado en geografia y gestion del territorio,0.4318181818181818,19.0,44.0,2021,4.0
+13,4,166,grado en historia,0.2222222222222222,40.0,180.0,2021,4.0
+14,4,167,grado en historia del arte,0.36470588235294116,62.0,170.0,2021,4.0
+15,17,171,grado en matematicas,0.13013698630136986,19.0,146.0,2021,4.0
+16,14,172,grado en medicina,0.0660377358490566,21.0,318.0,2021,4.0
+17,10,173,grado en odontologia,0.1935483870967742,18.0,93.0,2021,4.0
+18,18,174,grado en pedagogia,0.07894736842105263,12.0,152.0,2021,4.0
+19,11,175,grado en podologia,0.32857142857142857,23.0,70.0,2021,6.0
+20,13,176,grado en psicologia,0.14232209737827714,38.0,267.0,2021,5.0
+21,22,177,grado en quimica,0.1917808219178082,28.0,146.0,2021,4.0
+22,8,178,grado en relaciones laborales y recursos humanos,0.20361990950226244,45.0,221.0,2021,4.0
+23,7,179,grado en turismo,0.3020833333333333,87.0,288.0,2021,4.0
+24,1,180,grado en marketing e investigacion de mercados,0.2846715328467153,39.0,137.0,2021,4.0
+25,16,181,grado en estudios arabes e islamicos,0.3333333333333333,6.0,18.0,2021,4.0
+26,16,182,grado en estudios franceses,0.3108108108108108,23.0,74.0,2021,4.0
+27,16,183,grado en estudios ingleses,0.2602739726027397,38.0,146.0,2021,4.0
+28,16,184,grado en filologia clasica,0.55,22.0,40.0,2021,4.0
+29,16,185,grado en lengua y literatura alemanas,0.32432432432432434,12.0,37.0,2021,4.0
+30,1,186,doble grado en administracion y direccion de empresas y en derecho,0.225,27.0,120.0,2021,4.0
+31,20,186,doble grado en administracion y direccion de empresas y en derecho,0.225,27.0,120.0,2021,4.0
+32,20,187,doble grado en derecho y gestion y administracion publica,0.2033898305084746,12.0,59.0,2021,4.0
+33,4,188,grado en antropologia social y cultural,0.4107142857142857,23.0,56.0,2021,5.0
+34,21,190,grado en bellas artes,0.15254237288135594,27.0,177.0,2021,5.0
+35,2,192,grado en comunicacion audiovisual,0.0783132530120482,13.0,166.0,2021,5.0
+36,21,193,grado en conservacion y restauracion de bienes culturales,0.19047619047619047,12.0,63.0,2021,5.0
+37,18,194,grado en educacion infantil,0.04918032786885246,9.0,183.0,2021,5.0
+38,18,195,grado en educacion primaria,0.10687022900763359,56.0,524.0,2021,4.0
+39,17,196,grado en estadistica,0.061224489795918366,3.0,49.0,2021,4.0
+40,45,197,grado en ingenieria aeroespacial,0.1015625,13.0,128.0,2021,4.0
+41,9,198,grado en ingenieria agricola,0.37037037037037035,70.0,189.0,2021,4.0
+42,45,199,grado en ingenieria de las tecnologias de telecomunicacion,0.3359375,43.0,128.0,2021,4.0
+43,23,200,grado en ingenieria electrica,0.5694444444444444,41.0,72.0,2021,4.0
+44,23,201,grado en ingenieria electronica industrial,0.43103448275862066,50.0,116.0,2021,4.0
+45,23,202,grado en ingenieria en diseño industrial y desarrollo del producto,0.2066115702479339,25.0,121.0,2021,4.0
+46,45,203,grado en ingenieria de tecnologias industriales,0.14885496183206107,39.0,262.0,2021,4.0
+47,3,204,grado en ingenieria informatica-ingenieria de computadores,0.5689655172413793,66.0,116.0,2021,4.0
+48,3,205,grado en ingenieria informatica-ingenieria del software,0.20168067226890757,48.0,238.0,2021,4.0
+49,3,206,grado en ingenieria informatica-tecnologias informaticas,0.3660130718954248,56.0,153.0,2021,4.0
+50,23,207,grado en ingenieria mecanica,0.319672131147541,39.0,122.0,2021,4.0
+51,45,208,grado en ingenieria quimica,0.3559322033898305,21.0,59.0,2021,4.0
+52,23,209,grado en ingenieria quimica industrial,0.5161290322580645,32.0,62.0,2021,4.0
+53,2,210,grado en periodismo,0.10104529616724739,29.0,287.0,2021,4.0
+54,2,211,grado en publicidad y relaciones publicas,0.0979020979020979,14.0,143.0,2021,4.0
+55,23,213,doble grado en ingenieria electrica e ingenieria mecanica,0.2,3.0,15.0,2021,4.0
+56,23,214,doble grado en ingen diseño indy desarrollo del producto e ing mecanica,0.2608695652173913,6.0,23.0,2021,4.0
+57,23,215,doble grado en ingenieria electrica e ingenieria electronica industrial,0.5294117647058824,9.0,17.0,2021,4.0
+58,4,216,doble grado en geografia y gestion del territorio e historia,0.4666666666666667,14.0,30.0,2021,4.0
+59,14,217,grado en biomedicina basica y experimental,0.15384615384615385,8.0,52.0,2021,4.0
+60,20,218,grado en criminologia,0.08333333333333333,5.0,60.0,2021,5.0
+61,12,219,grado en estudios de asia oriental por la us y uma,0.2631578947368421,15.0,57.0,2021,5.0
+62,7,220,doble grado en finanzas y contabilidad y relac laborales y recurs humanos,0.29411764705882354,15.0,51.0,2021,5.0
+63,8,220,doble grado en finanzas y contabilidad y relac laborales y recurs humanos,0.29411764705882354,15.0,51.0,2021,5.0
+64,45,221,grado en ingenieria de la energia por la us y uma,0.4262295081967213,26.0,61.0,2021,4.0
+65,6,222,grado en ingenieria de materiales,0.2765957446808511,13.0,47.0,2021,4.0
+66,19,223,grado en optica y optometria,0.1,6.0,60.0,2021,4.0
+67,5,224,grado en bioquimica por la us y uma,0.16666666666666666,10.0,60.0,2021,5.0
+68,45,225,grado en ingenieria civil,0.5806451612903226,36.0,62.0,2021,5.0
+69,3,226,grado en ingenieria de la salud por la uma y us,0.21311475409836064,13.0,61.0,2021,5.0
+70,45,227,grado en ingenieria de organizacion industrial por la uma y us,0.11594202898550725,8.0,69.0,2021,5.0
+71,45,228,grado en ingenieria electronica robotica y mecatronica (uma-us),0.14666666666666667,11.0,75.0,2021,5.0
+72,7,229,doble grado en derecho y en finanzas y contabilidad,0.40816326530612246,20.0,49.0,2021,5.0
+73,20,229,doble grado en derecho y en finanzas y contabilidad,0.40816326530612246,20.0,49.0,2021,5.0
+74,19,230,doble grado en farmacia y en optica y optometria ,0.15,3.0,20.0,2021,5.0
+75,6,231,doble grado en fisica y en ingenieria de materiales,0.30434782608695654,7.0,23.0,2021,5.0
+76,6,232,doble grado en quimica y en ingenieria de materiales,0.125,2.0,16.0,2021,4.0
+77,22,232,doble grado en quimica y en ingenieria de materiales,0.125,2.0,16.0,2021,4.0
+78,15,233,grado en fundamentos de arquitectura,0.20618556701030927,60.0,291.0,2021,4.0
+79,1,234,doble grado en derecho y en economia,0.24390243902439024,10.0,41.0,2021,4.0
+80,20,234,doble grado en derecho y en economia,0.24390243902439024,10.0,41.0,2021,4.0
+81,16,235,doble grado en lengua y literatura alemanas y en educacion primaria,0.3,3.0,10.0,2021,4.0
+82,18,235,doble grado en lengua y literatura alemanas y en educacion primaria,0.3,3.0,10.0,2021,4.0
+83,16,238,doble grado en educacion primaria y estudios franceses,0.2222222222222222,2.0,9.0,2021,4.0
+84,18,238,doble grado en educacion primaria y estudios franceses,0.2222222222222222,2.0,9.0,2021,5.0
+85,16,239,doble grado en filologia clasica y filologia hispanica,0.6190476190476191,13.0,21.0,2021,5.0
+86,6,240,doble grado en fisica y matematicas,0.19047619047619047,4.0,21.0,2021,5.0
+87,17,240,doble grado en fisica y matematicas,0.18181818181818182,4.0,22.0,2021,5.0
+88,17,241,doble grado en matematicas y estadistica,0.08695652173913043,2.0,23.0,2021,6.0
+89,4,242,grado en arqueologia por la ugr uja y us,0.14634146341463414,6.0,41.0,2021,5.0
+90,2,243,doble grado en periodismo y comunicacion audiovisual (2016),0.4166666666666667,10.0,24.0,2021,5.0
+91,98,244,grado en edificacion,0.41025641025641024,32.0,78.0,2021,5.0
+92,11,245,doble grado en fisioterapia y ciencias de la actividad fisica y del deporte,0.2,5.0,25.0,2021,5.0
+93,18,245,doble grado en fisioterapia y ciencias de la actividad fisica y del deporte,0.19230769230769232,5.0,26.0,2021,5.0
+94,9,246,doble grado en ingenieria agricola (us) y grado ciencias ambientales (upo),0.0,0.0,27.0,2021,5.0
+95,2,m036,mu en comunicacion y cultura,0.04,1.0,25.0,2021,5.0
+96,302,m037,mu en artes del espectaculo vivo,0.35,7.0,20.0,2021,5.0
+97,302,m039,mu en estudios de genero y desarrollo profesional,0.10714285714285714,3.0,28.0,2021,5.0
+98,15,m040,mu en peritacion y reparacion de edificios,0.1,2.0,20.0,2021,5.0
+99,13,m041,mu en psicologia de las organizaciones y del trabajo,0.125,4.0,32.0,2021,5.0
+100,15,m043,mu en urbanismo planeamiento y diseño urbano,0.3333333333333333,6.0,18.0,2021,5.0
+101,302,m044,mu en profesorado de eso y bachillerato fp y eidiomas,0.051224944320712694,23.0,449.0,2021,5.0
+102,18,m049,mu en actividad fisica y calidad de vida de personas adul,0.1,3.0,30.0,2021,5.0
+103,4,m050,mu en arqueologia por la us y ugr,0.12903225806451613,4.0,31.0,2021,5.0
+104,15,m051,mu en arquitectura y patrimonio historico,0.09090909090909091,4.0,44.0,2021,5.0
+105,21,m052,mu en arte: idea y produccion,0.037037037037037035,1.0,27.0,2021,4.0
+106,302,m056,mu en ciencia y tecnologia de nuevos materiales,0.22727272727272727,5.0,22.0,2021,4.0
+107,20,m061,mu en derecho constitucional,0.13043478260869565,3.0,23.0,2021,1.0
+108,20,m062,mu en derecho publico,0.10526315789473684,2.0,19.0,2021,1.0
+109,7,m063,mu en direccion y planificacion del turismo,0.1,3.0,30.0,2021,1.0
+110,18,m064,mu en direccion evaluacion y calidad de las instituc de for,0.07142857142857142,2.0,28.0,2021,1.0
+111,4,m067,mu en documentos y libros archivos y bibliotecas,0.02564102564102564,1.0,39.0,2021,2.0
+112,1,m068,mu en economia y desarrollo,0.3333333333333333,8.0,24.0,2021,1.0
+113,16,m070,muen enseñanza del español como lengua extranjera y otras lengmod,0.03333333333333333,1.0,30.0,2021,1.0
+114,2,m071,mu en escritura creativa,0.038461538461538464,1.0,26.0,2021,1.0
+115,13,m073,mu en estudios avanzados en cerebro y conducta,0.047619047619047616,1.0,21.0,2021,1.0
+116,22,m075,mu en estudios avanzados en quimica,0.05263157894736842,1.0,19.0,2021,1.0
+117,16,m076,mu en estudios hispanicos superiores,0.2413793103448276,7.0,29.0,2021,1.0
+118,6,m082,mu en fisica nuclear,0.26666666666666666,4.0,15.0,2021,1.0
+119,302,m083,mu en fisiologia y neurociencia,0.17391304347826086,4.0,23.0,2021,1.0
+120,1,m085,mu en gestion estrategica y negocios internacionales,0.1724137931034483,5.0,29.0,2021,1.0
+121,98,m086,mu en gestion integral de la edificacion,0.15384615384615385,2.0,13.0,2021,1.0
+122,3,m095,mu en logica computacion e inteligencia artificial,0.23076923076923078,6.0,26.0,2021,1.0
+123,6,m099,mu en microelectronica: diseño y aplicaciones de sistemas,0.37037037037037035,10.0,27.0,2021,1.0
+124,11,m100,mu en nuevas tendencias asistenciales en cc de la salud,0.08333333333333333,3.0,36.0,2021,1.0
+125,4,m103,mu en patrimonio artistico andaluz y su proyeccion iberoameric,0.13333333333333333,4.0,30.0,2021,1.0
+126,13,m104,mu en psicologia de la educacion avances en intervencion,0.0,0.0,35.0,2021,1.0
+127,13,m105,mu en psicologia de la intervencion social y comunitaria,0.11428571428571428,4.0,35.0,2021,2.0
+128,20,m106,mu en relaciones juridicas-privadas,0.17647058823529413,3.0,17.0,2021,1.0
+129,98,m107,mu en seguridad integral en edificacion,0.10714285714285714,3.0,28.0,2021,1.0
+130,23,m108,muen seguridad integral en la industria y prevencion riesgos laborales,0.08333333333333333,3.0,36.0,2021,1.0
+131,2,m114,mu en comunicacion institucional y politica,0.1,4.0,40.0,2021,1.0
+132,12,m115,mu en filosofia y cultura moderna,0.0967741935483871,3.0,31.0,2021,1.0
+133,4,m117,mu en antropologia: gestion de la diversidad cultural el paty el des,0.16666666666666666,4.0,24.0,2021,1.0
+134,4,m121,mu en estudios americanos,0.14814814814814814,4.0,27.0,2021,1.0
+135,20,m122,mu en abogacia,0.012048192771084338,1.0,83.0,2021,1.0
+136,20,m123,mu en asesoria juridico-mercantil fiscal y laboral,0.07692307692307693,2.0,26.0,2021,1.0
+137,8,m125,mu en consultoria laboral,0.038461538461538464,1.0,26.0,2021,1.0
+138,14,m127,mu en investigacion medica: clinica y experimental,0.2857142857142857,8.0,28.0,2021,1.0
+139,20,m129,doble muen abogacia y asesoria juridico-mercantil fiscal y laboral,0.0,0.0,10.0,2021,1.0
+140,20,m130,doble master universitario en abogacia y derecho publico,0.0,0.0,9.0,2021,1.0
+141,13,m133,muen migraciones internacionales salud y bienestar: mod y est de inter,0.0,0.0,24.0,2021,1.0
+142,19,m134,mu en especializacion profesional en farmacia,0.125,6.0,48.0,2021,1.0
+143,4,m135,mu en estudios historicos avanzados,0.25,10.0,40.0,2021,1.0
+144,5,m136,mu en biologia avanzada: investigacion y aplicacion,0.07692307692307693,2.0,26.0,2021,1.0
+145,16,m137,mu en estudios lingüisticos literarios y culturales,0.01694915254237288,1.0,59.0,2021,1.0
+146,18,m138,mu en psicopedagogia,0.017241379310344827,1.0,58.0,2021,1.0
+147,20,m140,doble master universitario en abogacia y relaciones juridico-privadas,0.0,0.0,9.0,2021,2.0
+148,13,m141,mu en psicologia general sanitaria,0.0,0.0,41.0,2021,1.0
+149,45,m142,mu en ingenieria de telecomunicacion,0.14285714285714285,1.0,7.0,2021,1.0
+150,45,m143,mu en ingenieria aeronautica,0.08333333333333333,4.0,48.0,2021,1.0
+151,45,m146,mu en ingenieria industrial,0.056910569105691054,7.0,123.0,2021,2.0
+152,23,m148,mu en tecnologia e industria alimentaria,0.06896551724137931,2.0,29.0,2021,2.0
+153,302,m149,mu en sistemas inteligentes en energia y transporte (us y uma),0.0,0.0,17.0,2021,1.0
+154,9,m150,mu en ingenieria agronomica,0.058823529411764705,2.0,34.0,2021,1.0
+155,16,m151,doble mu en est hispanicos superiores y profde eso y bachillerato fp y,0.05263157894736842,1.0,19.0,2021,1.0
+156,302,m151,doble mu en est hispanicos superiores y profde eso y bachillerato fp y,0.05263157894736842,1.0,19.0,2021,1.0
+157,12,m152,doble mu en filosofia y cultura moderna y profde eso y bachillerato fp,0.0,0.0,21.0,2021,1.0
+158,302,m152,doble mu en filosofia y cultura moderna y profde eso y bachillerato fp,0.0,0.0,21.0,2021,1.0
+159,15,m153,mu en arquitectura,0.06172839506172839,10.0,162.0,2021,2.0
+160,1,m154,mu en auditoria y contabilidad superior,0.13043478260869565,3.0,23.0,2021,2.0
+161,45,m155,mu en diseño avanzado en ingenieria mecanica,0.35,7.0,20.0,2021,2.0
+162,18,m156,mu en formacion y orientacion para el trabajo,0.0,0.0,28.0,2021,2.0
+163,302,m157,mu en genetica molecular y biotecnologia,0.034482758620689655,1.0,29.0,2021,2.0
+164,4,m158,mu en gestion del territorio instrumentos y tecnicas de intervenc,0.17647058823529413,3.0,17.0,2021,1.0
+165,45,m160,mu en ingenieria electronica robotica y automatica,0.06451612903225806,2.0,31.0,2021,2.0
+166,302,m161,mu en investigacion biomedica,0.12244897959183673,6.0,49.0,2021,2.0
+167,17,m162,mu en matematicas,0.1,3.0,30.0,2021,1.0
+168,45,m163,mu en organizacion industrial y gestion de empresas,0.08823529411764706,3.0,34.0,2021,1.0
+169,45,m164,mu en sistemas de energia electrica,0.24,6.0,25.0,2021,1.0
+170,45,m165,mu en sistemas de energia termica,0.2857142857142857,4.0,14.0,2021,1.0
+171,15,m166,mu en ciudad y arquitectura sostenibles,0.1,2.0,20.0,2021,1.0
+172,10,m168,mu en odontologia medico-quirurgica e integral,0.0,0.0,20.0,2021,1.0
+173,15,m169,mu en innovacion en arquitectura: tecnologia y diseño (2016),0.3333333333333333,4.0,12.0,2021,1.0
+174,16,m170,doble muen profesorado de eso y bachillerato fp y ei y en estlingüis,0.6,12.0,20.0,2021,1.0
+175,302,m170,doble muen profesorado de eso y bachillerato fp y ei y en estlingüis,0.6,12.0,20.0,2021,1.0
+176,302,m171,mu en estudios europeos (2017),0.21428571428571427,6.0,28.0,2021,2.0
+177,10,m172,mu en odontologia restauradora estetica y funcional,0.05263157894736842,1.0,19.0,2021,1.0
+178,1,m174,mu en estudios avanzados en direccion de empresas (2017),0.15384615384615385,4.0,26.0,2021,1.0
+179,16,m175,mu en traduccion e interculturalidad (2017),0.05405405405405406,2.0,37.0,2021,1.0
+180,17,m176,doble mu profesorado educsecundobligy bach fp y ei y en matematicas,0.06666666666666667,1.0,15.0,2021,1.0
+181,302,m176,doble mu profesorado educsecundobligy bach fp y ei y en matematicas,0.06666666666666667,1.0,15.0,2021,1.0
+182,8,m177,mu en gestion y desarrollo de recursos humanos,0.12121212121212122,4.0,33.0,2021,1.0
+183,23,m178,mu en diseño e ingenieria de producte instalacinden entornos plm y bim,0.11764705882352941,2.0,17.0,2021,1.0
+184,302,m179,muen ingenieria del software: cloud datos y gestion de las tecnologias,0.23529411764705882,8.0,34.0,2021,1.0
+185,3,m180,mu en ingenieria informatica,0.36666666666666664,11.0,30.0,2021,1.0
+186,45,m181,mu en ingenieria quimica,0.16,4.0,25.0,2021,1.0
+187,1,m182,mu en consultoria economica y analisis aplicado (2018),0.15,3.0,20.0,2021,1.0
+188,45,m183,mu en ingenieria ambiental (2018),0.058823529411764705,1.0,17.0,2021,1.0
+189,2,m184,mu en guion narrativa y creatividad audiovisual,0.07142857142857142,2.0,28.0,2021,1.0
+190,10,m185,mu en odontologia infantil,0.0,0.0,19.0,2021,2.0
+191,20,m186,mu en derecho penal y ciencias criminales,0.12121212121212122,4.0,33.0,2021,2.0
+192,8,m187,mu en ciencias del trabajo,0.08695652173913043,2.0,23.0,2021,2.0
+193,3,m188,mu en ingenieria biomedica y salud digital,0.21428571428571427,6.0,28.0,2021,2.0
+194,13,m189,mu en intervencion y mediacion familiar,0.0,0.0,28.0,2021,1.0
+195,45,m190,mu en ingenieria de caminos canales y puertos (2019),0.12903225806451613,4.0,31.0,2021,1.0
+196,7,m201,mu en direccion financiera,0.14285714285714285,3.0,21.0,2021,2.0
+197,18,m202,mu en necesidades educativas especiales y atencion a la diversidad en la escuela,0.0,0.0,29.0,2021,1.0
+198,26,526,grado en enfermeria,0.17105263157894737,13.0,76.0,2021,1.0
+199,28,527,grado en enfermeria   ,0.15,12.0,80.0,2021,1.0
+200,28,528,grado en finanzas y contabilidad ,0.2631578947368421,5.0,19.0,2021,1.0
+201,28,529,grado en relaciones laborales y recursos humanos  ,0.2608695652173913,6.0,23.0,2021,1.0
+202,148,531,grado en enfermeria   ,0.04411764705882353,3.0,68.0,2021,1.0
+203,38,532,grado en turismo  ,0.17647058823529413,3.0,17.0,2021,4.0
+204,38,537,grado en publicidad y relaciones publicas  ,0.0,0.0,49.0,2021,4.0
+205,38,538,grado en periodismo  ,0.0,0.0,31.0,2021,4.0
+206,38,539,grado en comunicacion audiovisual  ,0.0,0.0,54.0,2021,4.0
+207,28,541,grado en educacion primaria ,0.0,0.0,52.0,2021,4.0
+208,28,542,grado en fisioterapia  ,0.0,0.0,64.0,2021,4.0
+209,28,543,doble grado en finanzas y contabilidad y relac laborales y recurs humanos,0.5,3.0,6.0,2021,4.0
+210,28,544,grado en educacion infantil    ,0.0,0.0,50.0,2021,4.0
+211,38,550,doble grado en periodismo y comunicacion audiovisual (2016),0.625,5.0,8.0,2021,4.0
+212,28,m547,mu en profesorado de eso bachiller fp y enseñanzas de idiomas  ,0.03260869565217391,3.0,92.0,2021,
+213,1,151,grado en administracion y direccion de empresas,0.38742393509127787,191.0,493.0,2020,4.0
+214,5,153,grado en biologia,0.19597989949748743,39.0,199.0,2020,4.0
+215,18,154,grado en ciencias de la actividad fisica y del deporte,0.07894736842105263,6.0,76.0,2020,4.0
+216,20,155,grado en derecho,0.14414414414414414,80.0,555.0,2020,4.0
+217,1,156,grado en economia,0.391025641025641,61.0,156.0,2020,4.0
+218,11,157,grado en enfermeria,0.2550607287449393,63.0,247.0,2020,4.0
+219,19,158,grado en famarcia,0.1134020618556701,33.0,291.0,2020,5.0
+220,16,159,grado en filologia hispanica,0.3828125,49.0,128.0,2020,4.0
+221,12,160,grado en filosofia,0.22388059701492538,15.0,67.0,2020,4.0
+222,7,161,grado en finanzas y contabilidad,0.5121359223300971,211.0,412.0,2020,4.0
+223,6,162,grado en fisica,0.32727272727272727,36.0,110.0,2020,4.0
+224,11,163,grado en fisioterapia,0.25,25.0,100.0,2020,4.0
+225,4,164,grado en geografia y gestion del territorio,0.3225806451612903,20.0,62.0,2020,4.0
+226,4,166,grado en historia,0.30357142857142855,51.0,168.0,2020,4.0
+227,4,167,grado en historia del arte,0.41040462427745666,71.0,173.0,2020,4.0
+228,17,171,grado en matematicas,0.2413793103448276,35.0,145.0,2020,4.0
+229,14,172,grado en medicina,0.07228915662650602,24.0,332.0,2020,6.0
+230,10,173,grado en odontologia,0.2087912087912088,19.0,91.0,2020,5.0
+231,18,174,grado en pedagogia,0.15384615384615385,24.0,156.0,2020,4.0
+232,11,175,grado en podologia,0.21428571428571427,15.0,70.0,2020,4.0
+233,13,176,grado en psicologia,0.13307984790874525,35.0,263.0,2020,4.0
+234,22,177,grado en quimica,0.2866666666666667,43.0,150.0,2020,4.0
+235,8,178,grado en relaciones laborales y recursos humanos,0.22321428571428573,50.0,224.0,2020,4.0
+236,7,179,grado en turismo,0.32142857142857145,90.0,280.0,2020,4.0
+237,1,180,grado en marketing e investigacion de mercados,0.2366412213740458,31.0,131.0,2020,4.0
+238,16,181,grado en estudios arabes e islamicos,0.25,6.0,24.0,2020,4.0
+239,16,182,grado en estudios franceses,0.36619718309859156,26.0,71.0,2020,4.0
+240,16,183,grado en estudios ingleses,0.2585034013605442,38.0,147.0,2020,4.0
+241,16,184,grado en filologia clasica,0.5348837209302325,23.0,43.0,2020,4.0
+242,16,185,grado en lengua y literatura alemanas,0.40816326530612246,20.0,49.0,2020,4.0
+243,1,186,doble grado en administracion y direccion de empresas y en derecho,0.2672413793103448,31.0,116.0,2020,5.0
+244,20,186,doble grado en administracion y direccion de empresas y en derecho,0.2672413793103448,31.0,116.0,2020,5.0
+245,20,187,doble grado en derecho y gestion y administracion publica,0.296875,19.0,64.0,2020,5.0
+246,4,188,grado en antropologia social y cultural,0.31746031746031744,20.0,63.0,2020,4.0
+247,21,190,grado en bellas artes,0.17297297297297298,32.0,185.0,2020,4.0
+248,2,192,grado en comunicacion audiovisual,0.12337662337662338,19.0,154.0,2020,4.0
+249,21,193,grado en conservacion y restauracion de bienes culturales,0.3114754098360656,19.0,61.0,2020,4.0
+250,18,194,grado en educacion infantil,0.02717391304347826,5.0,184.0,2020,4.0
+251,18,195,grado en educacion primaria,0.0703125,36.0,512.0,2020,4.0
+252,17,196,grado en estadistica,0.13953488372093023,6.0,43.0,2020,4.0
+253,45,197,grado en ingenieria aeroespacial,0.15503875968992248,20.0,129.0,2020,4.0
+254,9,198,grado en ingenieria agricola,0.49056603773584906,104.0,212.0,2020,4.0
+255,45,199,grado en ingenieria de las tecnologias de telecomunicacion,0.24603174603174602,31.0,126.0,2020,4.0
+256,23,200,grado en ingenieria electrica,0.49295774647887325,35.0,71.0,2020,4.0
+257,23,201,grado en ingenieria electronica industrial,0.5925925925925926,64.0,108.0,2020,4.0
+258,23,202,grado en ingenieria en diseño industrial y desarrollo del producto,0.21929824561403508,25.0,114.0,2020,4.0
+259,45,203,grado en ingenieria de tecnologias industriales,0.23193916349809887,61.0,263.0,2020,4.0
+260,3,204,grado en ingenieria informatica-ingenieria de computadores,0.6333333333333333,76.0,120.0,2020,4.0
+261,3,205,grado en ingenieria informatica-ingenieria del software,0.31983805668016196,79.0,247.0,2020,4.0
+262,3,206,grado en ingenieria informatica-tecnologias informaticas,0.4484848484848485,74.0,165.0,2020,4.0
+263,23,207,grado en ingenieria mecanica,0.39166666666666666,47.0,120.0,2020,4.0
+264,45,208,grado en ingenieria quimica,0.25,15.0,60.0,2020,4.0
+265,23,209,grado en ingenieria quimica industrial,0.4307692307692308,28.0,65.0,2020,4.0
+266,2,210,grado en periodismo,0.125,35.0,280.0,2020,4.0
+267,2,211,grado en publicidad y relaciones publicas,0.11188811188811189,16.0,143.0,2020,4.0
+268,23,213,doble grado en ingenieria electrica e ingenieria mecanica,0.4375,7.0,16.0,2020,5.0
+269,23,214,doble grado en ingen diseño indy desarrollo del producto e ing mecanica,0.5909090909090909,13.0,22.0,2020,5.0
+270,23,215,doble grado en ingenieria electrica e ingenieria electronica industrial,0.26666666666666666,4.0,15.0,2020,5.0
+271,4,216,doble grado en geografia y gestion del territorio e historia,0.5357142857142857,15.0,28.0,2020,5.0
+272,14,217,grado en biomedicina basica y experimental,0.1,5.0,50.0,2020,4.0
+273,20,218,grado en criminologia,0.12903225806451613,8.0,62.0,2020,4.0
+274,12,219,grado en estudios de asia oriental por la us y uma,0.09433962264150944,5.0,53.0,2020,4.0
+275,7,220,doble grado en finanzas y contabilidad y relac laborales y recurs humanos,0.4807692307692308,25.0,52.0,2020,5.0
+276,8,220,doble grado en finanzas y contabilidad y relac laborales y recurs humanos,0.4807692307692308,25.0,52.0,2020,5.0
+277,45,221,grado en ingenieria de la energia por la us y uma,0.38461538461538464,25.0,65.0,2020,4.0
+278,6,222,grado en ingenieria de materiales,0.175,7.0,40.0,2020,4.0
+279,19,223,grado en optica y optometria,0.11290322580645161,7.0,62.0,2020,4.0
+280,5,224,grado en bioquimica por la us y uma,0.05555555555555555,3.0,54.0,2020,4.0
+281,45,225,grado en ingenieria civil,0.5294117647058824,36.0,68.0,2020,4.0
+282,3,226,grado en ingenieria de la salud por la uma y us,0.15151515151515152,10.0,66.0,2020,4.0
+283,45,227,grado en ingenieria de organizacion industrial por la uma y us,0.07142857142857142,5.0,70.0,2020,4.0
+284,45,228,grado en ingenieria electronica robotica y mecatronica (uma-us),0.15384615384615385,10.0,65.0,2020,4.0
+285,7,229,doble grado en derecho y en finanzas y contabilidad,0.24,12.0,50.0,2020,5.0
+286,20,229,doble grado en derecho y en finanzas y contabilidad,0.24,12.0,50.0,2020,5.0
+287,19,230,doble grado en farmacia y en optica y optometria ,0.14285714285714285,3.0,21.0,2020,6.0
+288,6,231,doble grado en fisica y en ingenieria de materiales,0.3333333333333333,7.0,21.0,2020,5.0
+289,6,232,doble grado en quimica y en ingenieria de materiales,0.17647058823529413,3.0,17.0,2020,5.0
+290,22,232,doble grado en quimica y en ingenieria de materiales,0.17647058823529413,3.0,17.0,2020,5.0
+291,15,233,grado en fundamentos de arquitectura,0.21428571428571427,63.0,294.0,2020,5.0
+292,1,234,doble grado en derecho y en economia,0.275,11.0,40.0,2020,5.0
+293,20,234,doble grado en derecho y en economia,0.275,11.0,40.0,2020,5.0
+294,16,235,doble grado en lengua y literatura alemanas y en educacion primaria,0.2727272727272727,3.0,11.0,2020,5.0
+295,18,235,doble grado en lengua y literatura alemanas y en educacion primaria,0.2727272727272727,3.0,11.0,2020,5.0
+296,16,238,doble grado en educacion primaria y estudios franceses,0.8181818181818182,9.0,11.0,2020,5.0
+297,18,238,doble grado en educacion primaria y estudios franceses,0.8181818181818182,9.0,11.0,2020,5.0
+298,16,239,doble grado en filologia clasica y filologia hispanica,0.631578947368421,12.0,19.0,2020,5.0
+299,6,240,doble grado en fisica y matematicas,0.19047619047619047,4.0,21.0,2020,5.0
+300,17,240,doble grado en fisica y matematicas,0.19047619047619047,4.0,21.0,2020,5.0
+301,17,241,doble grado en matematicas y estadistica,0.14285714285714285,3.0,21.0,2020,5.0
+302,4,242,grado en arqueologia por la ugr uja y us,0.3,12.0,40.0,2020,4.0
+303,98,244,grado en edificacion,0.4020618556701031,39.0,97.0,2020,4.0
+304,2,m036,mu en comunicacion y cultura,0.09523809523809523,2.0,21.0,2020,1.0
+305,302,m037,mu en artes del espectaculo vivo,0.08333333333333333,2.0,24.0,2020,1.0
+306,302,m039,mu en estudios de genero y desarrollo profesional,0.09375,3.0,32.0,2020,1.0
+307,15,m040,mu en peritacion y reparacion de edificios,0.0625,1.0,16.0,2020,1.0
+308,13,m041,mu en psicologia de las organizaciones y del trabajo,0.0,0.0,33.0,2020,2.0
+309,15,m043,mu en urbanismo planeamiento y diseño urbano,0.21428571428571427,3.0,14.0,2020,1.0
+310,302,m044,mu en profesorado de eso y bachillerato fp y eidiomas,0.01141552511415525,5.0,438.0,2020,1.0
+311,18,m049,mu en actividad fisica y calidad de vida de personas adul,0.06451612903225806,2.0,31.0,2020,1.0
+312,4,m050,mu en arqueologia por la us y ugr,0.07407407407407407,2.0,27.0,2020,1.0
+313,15,m051,mu en arquitectura y patrimonio historico,0.11363636363636363,5.0,44.0,2020,1.0
+314,21,m052,mu en arte: idea y produccion,0.16129032258064516,5.0,31.0,2020,1.0
+315,302,m056,mu en ciencia y tecnologia de nuevos materiales,0.05555555555555555,1.0,18.0,2020,1.0
+316,20,m061,mu en derecho constitucional,0.10714285714285714,3.0,28.0,2020,1.0
+317,20,m062,mu en derecho publico,0.05263157894736842,1.0,19.0,2020,1.0
+318,7,m063,mu en direccion y planificacion del turismo,0.11764705882352941,4.0,34.0,2020,1.0
+319,18,m064,mu en direccion evaluacion y calidad de las instituc de for,0.0,0.0,30.0,2020,1.0
+320,4,m067,mu en documentos y libros archivos y bibliotecas,0.0,0.0,39.0,2020,1.0
+321,1,m068,mu en economia y desarrollo,0.14285714285714285,3.0,21.0,2020,1.0
+322,16,m070,muen enseñanza del español como lengua extranjera y otras lengmod,0.027777777777777776,1.0,36.0,2020,1.0
+323,2,m071,mu en escritura creativa,0.10714285714285714,3.0,28.0,2020,1.0
+324,13,m073,mu en estudios avanzados en cerebro y conducta,0.1,2.0,20.0,2020,2.0
+325,22,m075,mu en estudios avanzados en quimica,0.0,0.0,22.0,2020,1.0
+326,16,m076,mu en estudios hispanicos superiores,0.05263157894736842,2.0,38.0,2020,1.0
+327,6,m082,mu en fisica nuclear,0.0,0.0,17.0,2020,1.0
+328,302,m083,mu en fisiologia y neurociencia,0.04,1.0,25.0,2020,1.0
+329,1,m085,mu en gestion estrategica y negocios internacionales,0.07407407407407407,2.0,27.0,2020,1.0
+330,98,m086,mu en gestion integral de la edificacion,0.043478260869565216,1.0,23.0,2020,1.0
+331,3,m095,mu en logica computacion e inteligencia artificial,0.03225806451612903,1.0,31.0,2020,1.0
+332,6,m099,mu en microelectronica: diseño y aplicaciones de sistemas,0.24,6.0,25.0,2020,1.0
+333,11,m100,mu en nuevas tendencias asistenciales en cc de la salud,0.023255813953488372,1.0,43.0,2020,1.0
+334,4,m103,mu en patrimonio artistico andaluz y su proyeccion iberoameric,0.05263157894736842,2.0,38.0,2020,1.0
+335,13,m104,mu en psicologia de la educacion avances en intervencion,0.0,0.0,34.0,2020,1.0
+336,13,m105,mu en psicologia de la intervencion social y comunitaria,0.0,0.0,38.0,2020,1.0
+337,20,m106,mu en relaciones juridicas-privadas,0.11764705882352941,2.0,17.0,2020,1.0
+338,98,m107,mu en seguridad integral en edificacion,0.0,0.0,21.0,2020,1.0
+339,23,m108,muen seguridad integral en la industria y prevencion riesgos laborales,0.05263157894736842,2.0,38.0,2020,1.0
+340,2,m114,mu en comunicacion institucional y politica,0.13157894736842105,5.0,38.0,2020,1.0
+341,12,m115,mu en filosofia y cultura moderna,0.11764705882352941,4.0,34.0,2020,1.0
+342,4,m117,mu en antropologia: gestion de la diversidad cultural el paty el des,0.25806451612903225,8.0,31.0,2020,1.0
+343,4,m121,mu en estudios americanos,0.030303030303030304,1.0,33.0,2020,1.0
+344,20,m122,mu en abogacia,0.0,0.0,77.0,2020,2.0
+345,20,m123,mu en asesoria juridico-mercantil fiscal y laboral,0.08,2.0,25.0,2020,1.0
+346,8,m125,mu en consultoria laboral,0.047619047619047616,1.0,21.0,2020,1.0
+347,14,m127,mu en investigacion medica: clinica y experimental,0.10714285714285714,3.0,28.0,2020,1.0
+348,20,m129,doble muen abogacia y asesoria juridico-mercantil fiscal y laboral,0.0,0.0,9.0,2020,2.0
+349,20,m130,doble master universitario en abogacia y derecho publico,0.0,0.0,10.0,2020,2.0
+350,13,m133,muen migraciones internacionales salud y bienestar: mod y est de inter,0.0,0.0,25.0,2020,1.0
+351,19,m134,mu en especializacion profesional en farmacia,0.0,0.0,40.0,2020,1.0
+352,4,m135,mu en estudios historicos avanzados,0.1282051282051282,5.0,39.0,2020,1.0
+353,5,m136,mu en biologia avanzada: investigacion y aplicacion,0.09375,3.0,32.0,2020,1.0
+354,16,m137,mu en estudios lingüisticos literarios y culturales,0.11666666666666667,7.0,60.0,2020,1.0
+355,18,m138,mu en psicopedagogia,0.0,0.0,58.0,2020,1.0
+356,20,m140,doble master universitario en abogacia y relaciones juridico-privadas,0.0,0.0,10.0,2020,2.0
+357,13,m141,mu en psicologia general sanitaria,0.024390243902439025,1.0,41.0,2020,2.0
+358,45,m142,mu en ingenieria de telecomunicacion,0.08695652173913043,2.0,23.0,2020,2.0
+359,45,m143,mu en ingenieria aeronautica,0.06896551724137931,4.0,58.0,2020,2.0
+360,45,m146,mu en ingenieria industrial,0.09467455621301775,16.0,169.0,2020,2.0
+361,23,m148,mu en tecnologia e industria alimentaria,0.14814814814814814,4.0,27.0,2020,1.0
+362,302,m149,mu en sistemas inteligentes en energia y transporte (us y uma),0.0,0.0,15.0,2020,2.0
+363,9,m150,mu en ingenieria agronomica,0.06666666666666667,2.0,30.0,2020,2.0
+364,16,m151,doble mu en est hispanicos superiores y profde eso y bachillerato fp y,0.0,0.0,22.0,2020,1.0
+365,302,m151,doble mu en est hispanicos superiores y profde eso y bachillerato fp y,0.0,0.0,22.0,2020,1.0
+366,12,m152,doble mu en filosofia y cultura moderna y profde eso y bachillerato fp,0.0,0.0,19.0,2020,1.0
+367,302,m152,doble mu en filosofia y cultura moderna y profde eso y bachillerato fp,0.0,0.0,19.0,2020,1.0
+368,15,m153,mu en arquitectura,0.017142857142857144,3.0,175.0,2020,1.0
+369,1,m154,mu en auditoria y contabilidad superior,0.17647058823529413,3.0,17.0,2020,2.0
+370,45,m155,mu en diseño avanzado en ingenieria mecanica,0.38461538461538464,5.0,13.0,2020,1.0
+371,18,m156,mu en formacion y orientacion para el trabajo,0.03125,1.0,32.0,2020,1.0
+372,302,m157,mu en genetica molecular y biotecnologia,0.0,0.0,30.0,2020,1.0
+373,4,m158,mu en gestion del territorio instrumentos y tecnicas de intervenc,0.05,1.0,20.0,2020,1.0
+374,45,m160,mu en ingenieria electronica robotica y automatica,0.1935483870967742,6.0,31.0,2020,1.0
+375,302,m161,mu en investigacion biomedica,0.0,0.0,47.0,2020,1.0
+376,17,m162,mu en matematicas,0.07142857142857142,2.0,28.0,2020,1.0
+377,45,m163,mu en organizacion industrial y gestion de empresas,0.16,4.0,25.0,2020,1.0
+378,45,m164,mu en sistemas de energia electrica,0.2857142857142857,8.0,28.0,2020,1.0
+379,45,m165,mu en sistemas de energia termica,0.07692307692307693,1.0,13.0,2020,1.0
+380,15,m166,mu en ciudad y arquitectura sostenibles,0.09090909090909091,2.0,22.0,2020,1.0
+381,10,m168,mu en odontologia medico-quirurgica e integral,0.0,0.0,10.0,2020,1.0
+382,15,m169,mu en innovacion en arquitectura: tecnologia y diseño (2016),0.21428571428571427,3.0,14.0,2020,1.0
+383,16,m170,doble muen profesorado de eso y bachillerato fp y ei y en estlingüis,0.0,0.0,12.0,2020,2.0
+384,302,m170,doble muen profesorado de eso y bachillerato fp y ei y en estlingüis,0.0,0.0,12.0,2020,2.0
+385,302,m171,mu en estudios europeos (2017),0.19047619047619047,4.0,21.0,2020,1.0
+386,10,m172,mu en odontologia restauradora estetica y funcional,0.1,1.0,10.0,2020,1.0
+387,1,m174,mu en estudios avanzados en direccion de empresas (2017),0.03571428571428571,1.0,28.0,2020,1.0
+388,16,m175,mu en traduccion e interculturalidad (2017),0.05405405405405406,2.0,37.0,2020,1.0
+389,17,m176,doble mu profesorado educsecundobligy bach fp y ei y en matematicas,0.0,0.0,7.0,2020,2.0
+390,302,m176,doble mu profesorado educsecundobligy bach fp y ei y en matematicas,0.0,0.0,7.0,2020,2.0
+391,8,m177,mu en gestion y desarrollo de recursos humanos,0.03225806451612903,1.0,31.0,2020,1.0
+392,23,m178,mu en diseño e ingenieria de producte instalacinden entornos plm y bim,0.047619047619047616,1.0,21.0,2020,1.0
+393,302,m179,muen ingenieria del software: cloud datos y gestion de las tecnologias,0.1388888888888889,5.0,36.0,2020,1.0
+394,3,m180,mu en ingenieria informatica,0.1111111111111111,3.0,27.0,2020,2.0
+395,45,m181,mu en ingenieria quimica,0.045454545454545456,1.0,22.0,2020,2.0
+396,1,m182,mu en consultoria economica y analisis aplicado (2018),0.19230769230769232,5.0,26.0,2020,1.0
+397,45,m183,mu en ingenieria ambiental (2018),0.09375,3.0,32.0,2020,1.0
+398,2,m184,mu en guion narrativa y creatividad audiovisual,0.0,0.0,27.0,2020,1.0
+399,10,m185,mu en odontologia infantil,0.0,0.0,9.0,2020,1.0
+400,20,m186,mu en derecho penal y ciencias criminales,0.07407407407407407,2.0,27.0,2020,1.0
+401,8,m187,mu en ciencias del trabajo,0.05555555555555555,1.0,18.0,2020,1.0
+402,3,m188,mu en ingenieria biomedica y salud digital,0.17647058823529413,3.0,17.0,2020,1.0
+403,13,m189,mu en intervencion y mediacion familiar,0.13333333333333333,4.0,30.0,2020,1.0
+404,26,526,grado en enfermeria,0.29577464788732394,21.0,71.0,2020,4.0
+405,28,527,grado en enfermeria   ,0.11904761904761904,10.0,84.0,2020,4.0
+406,28,528,grado en finanzas y contabilidad ,0.43333333333333335,13.0,30.0,2020,4.0
+407,28,529,grado en relaciones laborales y recursos humanos  ,0.18518518518518517,5.0,27.0,2020,4.0
+408,148,531,grado en enfermeria   ,0.03225806451612903,2.0,62.0,2020,4.0
+409,38,532,grado en turismo  ,0.42857142857142855,6.0,14.0,2020,4.0
+410,38,537,grado en publicidad y relaciones publicas  ,0.11320754716981132,6.0,53.0,2020,4.0
+411,38,538,grado en periodismo  ,0.1794871794871795,7.0,39.0,2020,4.0
+412,38,539,grado en comunicacion audiovisual  ,0.26,13.0,50.0,2020,4.0
+413,28,541,grado en educacion primaria ,0.13513513513513514,10.0,74.0,2020,4.0
+414,28,542,grado en fisioterapia  ,0.20512820512820512,16.0,78.0,2020,4.0
+415,28,543,doble grado en finanzas y contabilidad y relac laborales y recurs humanos,0.75,3.0,4.0,2020,5.0
+416,28,544,grado en educacion infantil    ,0.14516129032258066,9.0,62.0,2020,4.0
+417,28,m547,mu en profesorado de eso bachiller fp y enseñanzas de idiomas  ,0.0,0.0,97.0,2020,1.0
+418,1,151,grado en administracion y direccion de empresas,0.37067209775967414,182.0,491.0,2019,4.0
+419,5,153,grado en biologia,0.17452830188679244,37.0,212.0,2019,4.0
+420,18,154,grado en ciencias de la actividad fisica y del deporte,0.10294117647058823,7.0,68.0,2019,4.0
+421,20,155,grado en derecho,0.1611785095320624,93.0,577.0,2019,4.0
+422,1,156,grado en economia,0.3170731707317073,52.0,164.0,2019,4.0
+423,11,157,grado en enfermeria,0.2145748987854251,53.0,247.0,2019,4.0
+424,19,158,grado en farmacia,0.14965986394557823,44.0,294.0,2019,4.0
+425,16,159,grado en filologia hispanica,0.3028169014084507,43.0,142.0,2019,4.0
+426,12,160,grado en filosofia,0.3013698630136986,22.0,73.0,2019,4.0
+427,7,161,grado en finanzas y contabilidad,0.4731934731934732,203.0,429.0,2019,4.0
+428,6,162,grado en fisica,0.19658119658119658,23.0,117.0,2019,4.0
+429,11,163,grado en fisioterapia,0.3391304347826087,39.0,115.0,2019,4.0
+430,4,164,grado en geografia y gestion del territorio,0.4098360655737705,25.0,61.0,2019,4.0
+431,20,165,grado en gestion y administracion publica,,,,2019,4.0
+432,4,166,grado en historia,0.20588235294117646,35.0,170.0,2019,4.0
+433,4,167,grado en historia del arte,0.358695652173913,66.0,184.0,2019,4.0
+434,17,171,grado en matematicas,0.20945945945945946,31.0,148.0,2019,6.0
+435,14,172,grado en medicina,0.07923497267759563,29.0,366.0,2019,5.0
+436,10,173,grado en odontologia,0.23255813953488372,20.0,86.0,2019,4.0
+437,18,174,grado en pedagogia,0.1,15.0,150.0,2019,4.0
+438,11,175,grado en podologia,0.34285714285714286,24.0,70.0,2019,4.0
+439,13,176,grado en psicologia,0.1412639405204461,38.0,269.0,2019,4.0
+440,22,177,grado en quimica,0.38311688311688313,59.0,154.0,2019,4.0
+441,8,178,grado en relaciones laborales y recursos humanos,0.2318181818181818,51.0,220.0,2019,4.0
+442,7,179,grado en turismo,0.26936026936026936,80.0,297.0,2019,4.0
+443,1,180,grado en marketing e investigacion de mercados,0.34615384615384615,45.0,130.0,2019,4.0
+444,16,181,grado en estudios arabes e islamicos,0.45454545454545453,10.0,22.0,2019,4.0
+445,16,182,grado en estudios franceses,0.4918032786885246,30.0,61.0,2019,4.0
+446,16,183,grado en estudios ingleses,0.1839080459770115,32.0,174.0,2019,4.0
+447,16,184,grado en filologia clasica,0.4883720930232558,21.0,43.0,2019,4.0
+448,16,185,grado en lengua y literatura alemanas,0.26666666666666666,12.0,45.0,2019,4.0
+449,4,188,grado en antropologia social y cultural,0.43103448275862066,25.0,58.0,2019,4.0
+450,21,190,grado en bellas artes,0.17613636363636365,31.0,176.0,2019,4.0
+451,2,192,grado en comunicacion audiovisual,0.10759493670886076,17.0,158.0,2019,4.0
+452,21,193,grado en conservacion y restauracion de bienes culturales,0.15254237288135594,9.0,59.0,2019,4.0
+453,18,194,grado en educacion infantil,0.08241758241758242,15.0,182.0,2019,4.0
+454,18,195,grado en educacion primaria,0.10805860805860806,59.0,546.0,2019,4.0
+455,17,196,grado en estadistica,0.32653061224489793,16.0,49.0,2019,4.0
+456,45,197,grado en ingenieria aeroespacial,0.1796875,23.0,128.0,2019,4.0
+457,9,198,grado en ingenieria agricola,0.46122448979591835,113.0,245.0,2019,4.0
+458,45,199,grado en ingenieria de las tecnologias de telecomunicacion,0.2765957446808511,39.0,141.0,2019,4.0
+459,23,200,grado en ingenieria electrica,0.36666666666666664,33.0,90.0,2019,4.0
+460,23,201,grado en ingenieria electronica industrial,0.4496124031007752,58.0,129.0,2019,4.0
+461,23,202,grado en ingenieria en diseño industrial y desarrollo del producto,0.23076923076923078,33.0,143.0,2019,4.0
+462,45,203,grado en ingenieria de tecnologias industriales,0.14615384615384616,38.0,260.0,2019,4.0
+463,3,204,grado en ingenieria informatica-ingenieria de computadores,0.5833333333333334,63.0,108.0,2019,4.0
+464,3,205,grado en ingenieria informatica-ingenieria del software,0.2897959183673469,71.0,245.0,2019,4.0
+465,3,206,grado en ingenieria informatica-tecnologias informaticas,0.5304878048780488,87.0,164.0,2019,4.0
+466,23,207,grado en ingenieria mecanica,0.2411764705882353,41.0,170.0,2019,4.0
+467,45,208,grado en ingenieria quimica,0.31746031746031744,20.0,63.0,2019,4.0
+468,23,209,grado en ingenieria quimica industrial,0.47619047619047616,40.0,84.0,2019,4.0
+469,2,210,grado en periodismo,0.1696113074204947,48.0,283.0,2019,4.0
+470,2,211,grado en publicidad y relaciones publicas,0.10071942446043165,14.0,139.0,2019,4.0
+471,14,217,grado en biomedicina basica y experimental,0.16666666666666666,8.0,48.0,2019,4.0
+472,20,218,grado en criminologia,0.06779661016949153,4.0,59.0,2019,4.0
+473,12,219,grado en estudios de asia oriental por la us y uma,0.16129032258064516,10.0,62.0,2019,4.0
+474,45,221,grado en ingenieria de la energia por la us y uma,0.3076923076923077,20.0,65.0,2019,4.0
+475,6,222,grado en ingenieria de materiales,0.17391304347826086,8.0,46.0,2019,4.0
+476,19,223,grado en optica y optometria,0.1,6.0,60.0,2019,4.0
+477,5,224,grado en bioquimica por la us y uma,0.08928571428571429,5.0,56.0,2019,4.0
+478,45,225,grado en ingenieria civil,0.375,27.0,72.0,2019,4.0
+479,3,226,grado en ingenieria de la salud por la uma y us,0.15873015873015872,10.0,63.0,2019,4.0
+480,45,227,grado en ingenieria de organizacion industrial por la uma y us,0.24615384615384617,16.0,65.0,2019,4.0
+481,45,228,grado en ingenieria electronica robotica y mecatronica (uma-us),0.15492957746478872,11.0,71.0,2019,5.0
+482,15,233,grado en fundamentos de arquitectura,0.20186335403726707,65.0,322.0,2019,4.0
+483,4,242,grado en arqueologia por la ugr uja y us,0.375,15.0,40.0,2019,4.0
+484,98,244,grado en edificacion,0.0,0.0,26.0,2019,1.0
+485,2,m036,mu en comunicacion y cultura,0.043478260869565216,1.0,23.0,2019,1.0
+486,302,m037,mu en artes del espectaculo vivo,0.08,2.0,25.0,2019,1.0
+487,302,m039,mu en estudios de genero y desarrollo profesional,0.15384615384615385,4.0,26.0,2019,2.0
+488,15,m040,mu en peritacion y reparacion de edificios,0.0,0.0,8.0,2019,1.0
+489,13,m041,mu en psicologia de las organizaciones y del trabajo,0.0625,2.0,32.0,2019,1.0
+490,15,m043,mu en urbanismo planeamiento y diseño urbano,0.08333333333333333,2.0,24.0,2019,1.0
+491,302,m044,mu en profesorado de eso y bachillerato fp y eidiomas,0.03579952267303103,15.0,419.0,2019,1.0
+492,18,m049,mu en actividad fisica y calidad de vida de personas adul,0.125,3.0,24.0,2019,1.0
+493,4,m050,mu en arqueologia por la us y ugr,0.1111111111111111,3.0,27.0,2019,1.0
+494,15,m051,mu en arquitectura y patrimonio historico,0.10526315789473684,4.0,38.0,2019,1.0
+495,21,m052,mu en arte: idea y produccion,0.03225806451612903,1.0,31.0,2019,1.0
+496,302,m056,mu en ciencia y tecnologia de nuevos materiales,0.0967741935483871,3.0,31.0,2019,1.0
+497,20,m061,mu en derecho constitucional,0.08,2.0,25.0,2019,1.0
+498,20,m062,mu en derecho publico,0.3888888888888889,7.0,18.0,2019,1.0
+499,7,m063,mu en direccion y planificacion del turismo,0.1111111111111111,3.0,27.0,2019,1.0
+500,18,m064,mu en direccion evaluacion y calidad de las instituc de for,0.04,1.0,25.0,2019,1.0
+501,4,m067,mu en documentos y libros archivos y bibliotecas,0.02564102564102564,1.0,39.0,2019,1.0
+502,1,m068,mu en economia y desarrollo,0.1111111111111111,2.0,18.0,2019,1.0
+503,16,m070,muen enseñanza del español como lengua extranjera y otras lengmod,0.05555555555555555,2.0,36.0,2019,2.0
+504,2,m071,mu en escritura creativa,0.24,6.0,25.0,2019,1.0
+505,13,m073,mu en estudios avanzados en cerebro y conducta,0.0,0.0,31.0,2019,1.0
+506,22,m075,mu en estudios avanzados en quimica,0.047619047619047616,1.0,21.0,2019,1.0
+507,16,m076,mu en estudios hispanicos superiores,0.1111111111111111,3.0,27.0,2019,1.0
+508,6,m082,mu en fisica nuclear,0.0,0.0,16.0,2019,1.0
+509,302,m083,mu en fisiologia y neurociencia,0.1111111111111111,4.0,36.0,2019,1.0
+510,1,m085,mu en gestion estrategica y negocios internacionales,0.12,3.0,25.0,2019,1.0
+511,98,m086,mu en gestion integral de la edificacion,0.05263157894736842,1.0,19.0,2019,1.0
+512,3,m095,mu en logica computacion e inteligencia artificial,0.13793103448275862,4.0,29.0,2019,1.0
+513,6,m099,mu en microelectronica: diseño y aplicaciones de sistemas,0.34615384615384615,9.0,26.0,2019,1.0
+514,11,m100,mu en nuevas tendencias asistenciales en cc de la salud,0.05128205128205128,2.0,39.0,2019,1.0
+515,4,m103,mu en patrimonio artistico andaluz y su proyeccion iberoameric,0.1388888888888889,5.0,36.0,2019,1.0
+516,13,m104,mu en psicologia de la educacion avances en intervencion,0.030303030303030304,1.0,33.0,2019,1.0
+517,13,m105,mu en psicologia de la intervencion social y comunitaria,0.0,0.0,35.0,2019,1.0
+518,20,m106,mu en relaciones juridicas-privadas,0.25,3.0,12.0,2019,1.0
+519,98,m107,mu en seguridad integral en edificacion,0.2727272727272727,6.0,22.0,2019,1.0
+520,23,m108,muen seguridad integral en la industria y prevencion riesgos laborales,0.02631578947368421,1.0,38.0,2019,1.0
+521,2,m114,mu en comunicacion institucional y politica,0.10526315789473684,4.0,38.0,2019,1.0
+522,12,m115,mu en filosofia y cultura moderna,0.11764705882352941,4.0,34.0,2019,1.0
+523,4,m117,mu en antropologia: gestion de la diversidad cultural el paty el des,0.08333333333333333,3.0,36.0,2019,2.0
+524,4,m121,mu en estudios americanos,0.06896551724137931,2.0,29.0,2019,1.0
+525,20,m122,mu en abogacia,0.0,0.0,76.0,2019,1.0
+526,20,m123,mu en asesoria juridico-mercantil fiscal y laboral,0.08333333333333333,2.0,24.0,2019,1.0
+527,8,m125,mu en consultoria laboral,0.05263157894736842,1.0,19.0,2019,1.0
+528,14,m127,mu en investigacion medica: clinica y experimental,0.2,7.0,35.0,2019,1.0
+529,13,m133,muen migraciones internacionales salud y bienestar: mod y est de inter,0.05,1.0,20.0,2019,1.0
+530,19,m134,mu en especializacion profesional en farmacia,0.12195121951219512,5.0,41.0,2019,1.0
+531,4,m135,mu en estudios historicos avanzados,0.08571428571428572,3.0,35.0,2019,1.0
+532,5,m136,mu en biologia avanzada: investigacion y aplicacion,0.06818181818181818,3.0,44.0,2019,1.0
+533,16,m137,mu en estudios lingüisticos literarios y culturales,0.11864406779661017,7.0,59.0,2019,2.0
+534,18,m138,mu en psicopedagogia,0.05,3.0,60.0,2019,2.0
+535,18,m139,mu en necesid educativas especiales y atencion a la diversen la escuela,0.0,0.0,29.0,2019,2.0
+536,13,m141,mu en psicologia general sanitaria,0.025,1.0,40.0,2019,2.0
+537,45,m142,mu en ingenieria de telecomunicacion,0.17857142857142858,5.0,28.0,2019,1.0
+538,45,m143,mu en ingenieria aeronautica,0.047619047619047616,3.0,63.0,2019,2.0
+539,45,m146,mu en ingenieria industrial,0.11173184357541899,20.0,179.0,2019,2.0
+540,23,m148,mu en tecnologia e industria alimentaria,0.08,2.0,25.0,2019,1.0
+541,302,m149,mu en sistemas inteligentes en energia y transporte (us y uma),0.0,0.0,15.0,2019,2.0
+542,9,m150,mu en ingenieria agronomica,0.0,0.0,31.0,2019,1.0
+543,15,m153,mu en arquitectura,0.04736842105263158,9.0,190.0,2019,1.0
+544,1,m154,mu en auditoria y contabilidad superior,0.038461538461538464,1.0,26.0,2019,1.0
+545,45,m155,mu en diseño avanzado en ingenieria mecanica,0.35,7.0,20.0,2019,1.0
+546,18,m156 ,mu en formacion y orientacion para el trabajo,0.0,0.0,28.0,2019,1.0
+547,302,m157 ,mu en genetica molecular y biotecnologia,0.0,0.0,29.0,2019,1.0
+548,4,m158,mu en gestion del territorio instrumentos y tecnicas de intervenc,0.09090909090909091,2.0,22.0,2019,1.0
+549,45,m160,mu en ingenieria electronica robotica y automatica,0.21428571428571427,6.0,28.0,2019,1.0
+550,302,m161 ,mu en investigacion biomedica,0.0,0.0,48.0,2019,1.0
+551,17,m162,mu en matematicas,0.08333333333333333,2.0,24.0,2019,1.0
+552,45,m163 ,mu en organizacion industrial y gestion de empresas,0.15384615384615385,4.0,26.0,2019,1.0
+553,45,m164,mu en sistemas de energia electrica,0.25,5.0,20.0,2019,1.0
+554,45,m165,mu en sistemas de energia termica,0.0,0.0,14.0,2019,1.0
+555,15,m166 ,mu en ciudad y arquitectura sostenibles,0.08695652173913043,2.0,23.0,2019,1.0
+556,10,m168,mu en odontologia medico-quirurgica e integral,0.0,0.0,9.0,2019,1.0
+557,15,m169,mu en innovacion en arquitectura: tecnologia y diseño (2016),0.16666666666666666,4.0,24.0,2019,1.0
+558,302,m171 ,mu en estudios europeos (2017),0.16666666666666666,3.0,18.0,2019,1.0
+559,10,m172,mu en odontologia restauradora estetica y funcional,0.0,0.0,10.0,2019,1.0
+560,1,m174 ,mu en estudios avanzados en direccion de empresas (2017),0.10344827586206896,3.0,29.0,2019,1.0
+561,16,m175,mu en traduccion e interculturalidad (2017),0.25925925925925924,7.0,27.0,2019,1.0
+562,8,m177 ,mu en gestion y desarrollo de recursos humanos,0.09375,3.0,32.0,2019,1.0
+563,23,m178,mu en diseño e ingenieria de producte instalacinden entornos plm y bim,0.15384615384615385,2.0,13.0,2019,1.0
+564,302,m179,muen ingenieria del software: cloud datos y gestion de las tecnologias,0.10256410256410256,4.0,39.0,2019,1.0
+565,1,m182 ,mu en consultoria economica y analisis aplicado (2018),0.05555555555555555,1.0,18.0,2019,4.0
+566,45,m183 ,mu en ingenieria ambiental (2018),0.0,0.0,22.0,2019,4.0
+567,13,m189 ,mu en intervencion y mediacion familiar,0.03571428571428571,1.0,28.0,2019,4.0
+568,26,526,grado en enfermeria   ,0.038461538461538464,3.0,78.0,2019,4.0
+569,28,527,grado en enfermeria   ,0.16666666666666666,13.0,78.0,2019,4.0
+570,28,528,grado en finanzas y contabilidad ,0.25,5.0,20.0,2019,4.0
+571,28,529,grado en relaciones laborales y recursos humanos  ,0.3333333333333333,4.0,12.0,2019,4.0
+572,148,531,grado en enfermeria   ,0.09375,6.0,64.0,2019,1.0
+573,38,532,grado en turismo  ,0.2222222222222222,4.0,18.0,2019,
+574,38,537,grado en publicidad y relaciones publicas  ,0.1568627450980392,8.0,51.0,2019,
+575,38,538,grado en periodismo  ,0.16666666666666666,7.0,42.0,2019,
+576,38,539,grado en comunicacion audiovisual  ,0.22916666666666666,11.0,48.0,2019,
+577,28,541,grado en educacion primaria ,0.16666666666666666,11.0,66.0,2019,
+578,28,542,grado en fisioterapia  ,0.14492753623188406,10.0,69.0,2019,
+579,28,544,grado en educacion infantil    ,0.10869565217391304,5.0,46.0,2019,
+580,28,m547,mu en profesorado de eso bachiller fp y enseñanzas de idiomas  ,0.0,0.0,90.0,2019,
+581,1,151,grado en administracion y direccion de empresas,0.3652694610778443,183.0,501.0,2018,4.0
+582,5,153,grado en biologia,0.16517857142857142,37.0,224.0,2018,4.0
+583,18,154,grado en ciencias de la actividad fisica y del deporte,0.10344827586206896,6.0,58.0,2018,4.0
+584,20,155,grado en derecho,0.11023622047244094,56.0,508.0,2018,4.0
+585,1,156,grado en economia,0.3333333333333333,50.0,150.0,2018,4.0
+586,11,157,grado en enfermeria,0.204,51.0,250.0,2018,4.0
+587,19,158,grado en farmacia (13-14),0.16065573770491803,49.0,305.0,2018,4.0
+588,16,159,grado en filologia hispanica,0.35833333333333334,43.0,120.0,2018,4.0
+589,12,160,grado en filosofia,0.35,28.0,80.0,2018,4.0
+590,7,161,grado en finanzas y contabilidad,0.45098039215686275,207.0,459.0,2018,4.0
+591,6,162,grado en fisica,0.29357798165137616,32.0,109.0,2018,4.0
+592,11,163,grado en fisioterapia,0.24778761061946902,28.0,113.0,2018,4.0
+593,4,164,grado en geografia y gestion del territorio,0.3,18.0,60.0,2018,4.0
+594,4,166,grado en historia,0.3351063829787234,63.0,188.0,2018,4.0
+595,4,167,grado en historia del arte,0.42934782608695654,79.0,184.0,2018,4.0
+596,17,171,grado en matematicas,0.2647058823529412,36.0,136.0,2018,4.0
+597,14,172,grado en medicina (12-13),0.10354223433242507,38.0,367.0,2018,4.0
+598,10,173,grado en odontologia (13-14),0.21505376344086022,20.0,93.0,2018,4.0
+599,18,174,grado en pedagogia,0.13142857142857142,23.0,175.0,2018,4.0
+600,11,175,grado en podologia,0.25316455696202533,20.0,79.0,2018,4.0
+601,13,176,grado en psicologia,0.13011152416356878,35.0,269.0,2018,4.0
+602,22,177,grado en quimica,0.2662337662337662,41.0,154.0,2018,4.0
+603,8,178,grado en relaciones laborales y recursos humanos,0.2556053811659193,57.0,223.0,2018,4.0
+604,7,179,grado en turismo,0.2588996763754045,80.0,309.0,2018,4.0
+605,1,180,grado en marketing e investigacion de mercados,0.30708661417322836,39.0,127.0,2018,4.0
+606,16,181,grado en estudios arabes e islamicos,0.5517241379310345,16.0,29.0,2018,4.0
+607,16,182,grado en estudios franceses,0.44776119402985076,30.0,67.0,2018,4.0
+608,16,183,grado en estudios ingleses,0.33714285714285713,59.0,175.0,2018,4.0
+609,16,184,grado en filologia clasica,0.5405405405405406,20.0,37.0,2018,4.0
+610,16,185,grado en lengua y literatura alemanas,0.3157894736842105,18.0,57.0,2018,4.0
+611,4,188,grado en antropologia social y cultural,0.3548387096774194,22.0,62.0,2018,4.0
+612,21,190,grado en bellas artes,0.1891891891891892,35.0,185.0,2018,4.0
+613,2,192,grado en comunicacion audiovisual,0.1,15.0,150.0,2018,4.0
+614,21,193,grado en conservacion y restauracion de bienes culturales,0.2318840579710145,16.0,69.0,2018,4.0
+615,18,194,grado en educacion infantil,0.056818181818181816,10.0,176.0,2018,4.0
+616,18,195,grado en educacion primaria,0.13333333333333333,76.0,570.0,2018,4.0
+617,17,196,grado en estadistica,0.3111111111111111,14.0,45.0,2018,4.0
+618,45,197,grado en ingenieria aeroespacial,0.15503875968992248,20.0,129.0,2018,4.0
+619,9,198,grado en ingenieria agricola,0.460431654676259,128.0,278.0,2018,4.0
+620,45,199,grado en ingenieria de las tecnologias de telecomunicacion,0.39869281045751637,61.0,153.0,2018,4.0
+621,23,200,grado en ingenieria electrica,0.31496062992125984,40.0,127.0,2018,4.0
+622,23,201,grado en ingenieria electronica industrial,0.35555555555555557,64.0,180.0,2018,4.0
+623,23,202,grado en ingenieria en diseño industrial y desarrollo del producto,0.2597402597402597,40.0,154.0,2018,4.0
+624,45,203,grado en ingenieria de tecnologias industriales,0.17054263565891473,44.0,258.0,2018,4.0
+625,3,204,grado en ingenieria informatica-ingenieria de computadores,0.6277372262773723,86.0,137.0,2018,4.0
+626,3,205,grado en ingenieria informatica-ingenieria del software,0.35271317829457366,91.0,258.0,2018,4.0
+627,3,206,grado en ingenieria informatica-tecnologias informaticas,0.56,98.0,175.0,2018,4.0
+628,23,207,grado en ingenieria mecanica,0.30386740331491713,55.0,181.0,2018,4.0
+629,45,208,grado en ingenieria quimica,0.391304347826087,27.0,69.0,2018,4.0
+630,23,209,grado en ingenieria quimica industrial,0.3185840707964602,36.0,113.0,2018,4.0
+631,2,210,grado en periodismo,0.12318840579710146,34.0,276.0,2018,4.0
+632,2,211,grado en publicidad y relaciones publicas,0.14492753623188406,20.0,138.0,2018,4.0
+633,14,217,grado en biomedicina basica y experimental,0.24489795918367346,12.0,49.0,2018,4.0
+634,20,218,grado en criminologia,0.21311475409836064,13.0,61.0,2018,4.0
+635,12,219,grado en estudios de asia oriental por la us y la ude malaga,0.21568627450980393,11.0,51.0,2018,4.0
+636,45,221,grado en ingenieria de la energia por la us y la u malaga,0.2537313432835821,17.0,67.0,2018,4.0
+637,6,222,grado en ingenieria de materiales,0.21739130434782608,10.0,46.0,2018,4.0
+638,19,223,grado en optica y optometria,0.11864406779661017,7.0,59.0,2018,4.0
+639,5,224,grado en bioquimica por la u de sevilla y u de malaga,0.15789473684210525,9.0,57.0,2018,4.0
+640,45,225,grado en ingenieria civil,0.3611111111111111,26.0,72.0,2018,4.0
+641,3,226,grado en ingenieria de la salud por la u malaga y la usevilla,0.25,17.0,68.0,2018,4.0
+642,45,227,grado en ingenieria de organizacion industrial por la u m y us,0.22535211267605634,16.0,71.0,2018,4.0
+643,45,228,grado en ingenieria electronica robotica y mecatronica (uma-us),0.16666666666666666,11.0,66.0,2018,4.0
+644,15,233,grado en fundamentos de arquitectura (13-14),0.23668639053254437,80.0,338.0,2018,4.0
+645,4,242,grado en arqueologia por la u granada u jaen y u sevilla,0.3157894736842105,12.0,38.0,2018,4.0
+646,98,244,grado en edificacion,0.0,0.0,19.0,2018,4.0
+647,2,m036,mu en comunicacion y cultura (rd1393/07),0.11764705882352941,2.0,17.0,2018,4.0
+648,302,m037,mu en artes del espectaculo vivo (rd1393/07),0.05,1.0,20.0,2018,4.0
+649,302,m039,mu en estudios de genero y desarrollo profesional (rd07),0.08,2.0,25.0,2018,4.0
+650,15,m040,mu en peritacion y reparacion de edificios,0.0,0.0,22.0,2018,4.0
+651,13,m041,mu en psicologia de las organizaciones y del trabajo (07)_(16-17),0.06060606060606061,2.0,33.0,2018,4.0
+652,15,m043,mu en urbanismo planeamiento y diseño urbano ,0.09523809523809523,2.0,21.0,2018,4.0
+653,302,m044,mu profesorado de eso y bachillerato f p y ede idiomas ,0.019464720194647202,8.0,411.0,2018,1.0
+654,18,m049,mu en actividad fisica y cdad de vida de perso adultas y mayo,0.06896551724137931,2.0,29.0,2018,1.0
+655,4,m050,mu en arqueologia (rd1393/07),0.21428571428571427,3.0,14.0,2018,1.0
+656,15,m051,mu en arquitectura y patrimonio historico (rd1393/07),0.024390243902439025,1.0,41.0,2018,1.0
+657,21,m052,mu en arte: idea y produccion (rd1393/07),0.0,0.0,31.0,2018,1.0
+658,302,m056,mu en ciencia y tecnologia de nuevos materiales (rd1393/07),0.0,0.0,11.0,2018,1.0
+659,20,m061,mu en derecho constitucional (rd1393/07),0.23076923076923078,6.0,26.0,2018,1.0
+660,20,m062,mu en derecho publico (rd1393/07),0.05555555555555555,1.0,18.0,2018,1.0
+661,7,m063,mu en direccion y planificacion del turismo (rd1393/07),0.038461538461538464,1.0,26.0,2018,1.0
+662,18,m064,mu en direccion evaluacion y calidad de las instituciones de for,0.10344827586206896,3.0,29.0,2018,1.0
+663,4,m067,mu en documentos y libros archivos y bibliotecas ,0.02564102564102564,1.0,39.0,2018,1.0
+664,1,m068,mu en economia y desarrollo (rd1393/07),0.09523809523809523,2.0,21.0,2018,1.0
+665,16,m070,mu en endel español como l extranjera y de otras l modernas ,0.0,0.0,32.0,2018,
+666,2,m071,mu en escritura creativa (rd1393/07),0.04,1.0,25.0,2018,
+667,13,m073,mu en estudios avanzados en cerebro y conducta (16-17),0.0,0.0,26.0,2018,
+668,22,m075,mu en estudios avanzados en quimica (rd1393/07),0.0,0.0,17.0,2018,
+669,16,m076,mu en estudios hispanicos superiores (rd1393/07),0.08571428571428572,3.0,35.0,2018,
+670,6,m082,mu en fisica nuclear (master interuniversitario) (rd1393/07),0.0,0.0,9.0,2018,
+671,302,m083,mu en fisiologia y neurociencia (rd1393/07),0.12903225806451613,4.0,31.0,2018,
+672,1,m085,mu en gestion estrategica y negocios internacionales ,0.10714285714285714,3.0,28.0,2018,
+673,98,m086,mu en gestion integral de la edificacion (rd1393/07),0.07142857142857142,1.0,14.0,2018,
+674,2,m088,mu en guion narrativa y creatividad audiovisual (rd1393/07),0.037037037037037035,1.0,27.0,2018,
+675,13,m092,mu en intervencion y mediacion familiar (rd1393/07),0.0,0.0,30.0,2018,
+676,3,m095,mu en logica computacion e inteligencia artificial ,0.32,8.0,25.0,2018,
+677,6,m099,mu en microelectronica: dño y appsde sistemas m/nano,0.48,12.0,25.0,2018,
+678,11,m100,mu en nuevas tendencias asistenciales en ciencias de la salud,0.06976744186046512,3.0,43.0,2018,
+679,4,m103,mu en patrimonio artistico andaluz y su proy iberoamericana ,0.13333333333333333,4.0,30.0,2018,
+680,13,m104,mu en psi de la edu avances en inter psicoedu y ne esp,0.0,0.0,34.0,2018,
+681,13,m105,mu en psicologia de la intervencion social y comunitaria,0.0,0.0,35.0,2018,
+682,20,m106,mu en relaciones juridico-privadas (rd1393/07),0.07142857142857142,1.0,14.0,2018,
+683,98,m107,mu en seguridad integral en edificacion (rd1393/07),0.0,0.0,9.0,2018,
+684,23,m108,mu en seguridad integral en la industria y prev rrll,0.09090909090909091,3.0,33.0,2018,
+685,2,m114,mu en comunicacion institucional y politica (rd1393/2007),0.058823529411764705,2.0,34.0,2018,
+686,12,m115,mu en filosofia y cultura moderna (rd1393/2007),0.08695652173913043,2.0,23.0,2018,
+687,4,m117,mu en antropologia: gestion de la diver cul el patr y el des ,0.2608695652173913,6.0,23.0,2018,
+688,4,m121,mu en estudios americanos (rd1393/2007),0.12903225806451613,4.0,31.0,2018,
+689,20,m122,mu en abogacia (rd 1393/2007)(16-17),0.0125,1.0,80.0,2018,
+690,20,m123,mu en asesoria juridico-mercantil fiscal y laboral ,0.0,0.0,22.0,2018,
+691,8,m125,mu en consultoria laboral,0.08,2.0,25.0,2018,
+692,14,m127,mu en investigacion medica: clinica y experimental ,0.0,0.0,29.0,2018,
+693,13,m133,mu en migraciones internacionales salud y bienestar: modelos y estrategias de intervencion,0.125,3.0,24.0,2018,
+694,19,m134,mu en especializacion profesional en farmacia,0.0967741935483871,3.0,31.0,2018,
+695,4,m135,m u en estudios historicos avanzados,0.1111111111111111,4.0,36.0,2018,
+696,5,m136,mu en biologia avanzada: investigacion y aplicacion,0.038461538461538464,1.0,26.0,2018,
+697,16,m137,mu en estudios lingüisticos literarios y culturales por la us,0.022222222222222223,1.0,45.0,2018,
+698,18,m138,mu en psicopedagogia,0.01818181818181818,1.0,55.0,2018,
+699,18,m139,mu en neceducespecy atena la divad en la escuela por la us ,0.0,0.0,30.0,2018,
+700,13,m141,mu en psicologia general sanitaria por la universidad de sevilla(16-17),0.02631578947368421,1.0,38.0,2018,
+701,45,m142,mu en ingenieria de telecomunicacion por la u de sevilla (16-17),0.058823529411764705,1.0,17.0,2018,
+702,45,m143,mu en ingenieria aeronautica por la universidad de sevilla (16-17),0.041666666666666664,3.0,72.0,2018,
+703,45,m145,mu en ingenieria de caminos canales y puertos por la u s (16-17),0.25,9.0,36.0,2018,
+704,45,m146,mu en ingenieria industrial por la universidad de sevilla (16-17),0.1,20.0,200.0,2018,
+705,23,m148,mu en tecnologia e industria alimentaria por la us,0.07142857142857142,2.0,28.0,2018,
+706,302,m149,mu en sist inteligentes en ener y transporte por la usy la um (16-17),0.0,0.0,4.0,2018,
+707,9,m150,mu en ingenieria agronomica (16-17),0.03571428571428571,1.0,28.0,2018,
+708,15,m153,mu en arquitectura ,0.08333333333333333,4.0,48.0,2018,
+709,1,m154,mu en auditoria y contabilidad superior (16-17),0.041666666666666664,1.0,24.0,2018,
+710,45,m155,mu en diseño avanzado en ingenieria mecanica ,0.35714285714285715,5.0,14.0,2018,
+711,18,m156,mu en formacion y orientacion para el trabajo,0.038461538461538464,1.0,26.0,2018,
+712,302,m157,mu genetica molecular y biotecnologia,0.03333333333333333,1.0,30.0,2018,
+713,4,m158,m u en gestion del territorio instrumentos y tecnicas de intervenc ,0.1111111111111111,2.0,18.0,2018,
+714,45,m160,mu en ingenieria electronica robotica y automatica ,0.14814814814814814,4.0,27.0,2018,
+715,302,m161,mu en investigacion biomedica,0.05555555555555555,2.0,36.0,2018,
+716,17,m162,mu en matematicas,0.2222222222222222,2.0,9.0,2018,
+717,45,m163,mu en organizacion industrial y gestion de empresas ,0.13333333333333333,4.0,30.0,2018,
+718,45,m164,mu en sistemas de energia electrica ,0.2608695652173913,6.0,23.0,2018,
+719,45,m165,mu en sistemas de energia termica ,0.16666666666666666,1.0,6.0,2018,
+720,15,m166,mu en ciudad y arquitectura sostenibles ,0.05555555555555555,1.0,18.0,2018,
+721,10,m168,mu en odontologia medico-quirurgica e integral,0.0,0.0,10.0,2018,
+722,15,m169,mu en innovacion en arquitectura: tecnologia y diseño ,0.08333333333333333,1.0,12.0,2018,
+723,302,m171,mu en estudios europeos (2012) rd 1393/2007,0.05263157894736842,1.0,19.0,2018,
+724,10,m172,mu en odontologia restauradora estetica y funcional,0.0,0.0,10.0,2018,
+725,1,m174,mu en estudios avanzados en direccion de empresas,0.20689655172413793,6.0,29.0,2018,
+726,16,m175,mu en traduccion e interculturalidad (rd1393/07),0.0625,2.0,32.0,2018,
+727,26,526,grado en enfermeria,0.15,12.0,80.0,2018,
+728,28,527,grado en enfermeria,0.19480519480519481,15.0,77.0,2018,
+729,28,528,grado en finanzas y contabilidad,0.3125,10.0,32.0,2018,
+730,28,529,grado en relaciones laborales y recursos humanos,0.25,5.0,20.0,2018,
+731,148,531,grado en enfermeria,0.15254237288135594,9.0,59.0,2018,
+732,38,532,grado en turismo,0.3333333333333333,6.0,18.0,2018,
+733,38,537,grado en publicidad y relaciones publicas,0.26666666666666666,12.0,45.0,2018,
+734,38,538,grado en periodismo,0.34782608695652173,16.0,46.0,2018,
+735,38,539,grado en comunicacion audiovisual,0.22,11.0,50.0,2018,
+736,28,541,grado en educacion primaria,0.14035087719298245,8.0,57.0,2018,
+737,28,542,grado en fisioterapia,0.14864864864864866,11.0,74.0,2018,
+738,28,544,grado en educacion infantil,0.046511627906976744,2.0,43.0,2018,
+739,28,m547,mu en profesorado de eso bachiller fp y enseñanzas de idiomas  ,0.010869565217391304,1.0,92.0,2018,
+740,1,151,grado en administracion y direccion de empresas,0.311284046692607,160.0,514.0,2017,4.0
+741,5,153,grado en biologia,0.15,33.0,220.0,2017,4.0
+742,18,154,grado en ciencias de la actividad fisica y del deporte,0.07936507936507936,5.0,63.0,2017,4.0
+743,20,155,grado en derecho,0.15717092337917485,80.0,509.0,2017,4.0
+744,1,156,grado en economia,0.3263888888888889,47.0,144.0,2017,4.0
+745,11,157,grado en enfermeria,0.19246861924686193,46.0,239.0,2017,4.0
+746,19,158,grado en farmacia (ingreso 12-13),0.16233766233766234,50.0,308.0,2017,4.0
+747,16,159,grado en filologia hispanica,0.24545454545454545,27.0,110.0,2017,4.0
+748,12,160,grado en filosofia,0.45054945054945056,41.0,91.0,2017,4.0
+749,7,161,grado en finanzas y contabilidad,0.44776119402985076,210.0,469.0,2017,4.0
+750,6,162,grado en fisica,0.32673267326732675,33.0,101.0,2017,4.0
+751,11,163,grado en fisioterapia,0.2079207920792079,21.0,101.0,2017,4.0
+752,4,164,grado en geografia y gestion del territorio,0.1935483870967742,12.0,62.0,2017,4.0
+753,4,166,grado en historia,0.27717391304347827,51.0,184.0,2017,4.0
+754,4,167,grado en historia del arte,0.43548387096774194,81.0,186.0,2017,4.0
+755,17,171,grado en matematicas,0.3533834586466165,47.0,133.0,2017,4.0
+756,14,172,grado en medicina (ingreso 11-12),0.10354223433242507,38.0,367.0,2017,4.0
+757,10,173,grado en odontologia (ingreso 12-13),0.23655913978494625,22.0,93.0,2017,4.0
+758,18,174,grado en pedagogia,0.14285714285714285,30.0,210.0,2017,4.0
+759,11,175,grado en podologia,0.20588235294117646,14.0,68.0,2017,4.0
+760,13,176,grado en psicologia,0.10452961672473868,30.0,287.0,2017,4.0
+761,22,177,grado en quimica,0.22448979591836735,33.0,147.0,2017,4.0
+762,8,178,grado en relaciones laborales y recursos humanos,0.20087336244541484,46.0,229.0,2017,4.0
+763,7,179,grado en turismo,0.27976190476190477,94.0,336.0,2017,4.0
+764,1,180,grado en marketing e investigacion de mercados,0.3106060606060606,41.0,132.0,2017,4.0
+765,16,181,grado en estudios arabes e islamicos,0.5277777777777778,19.0,36.0,2017,4.0
+766,16,182,grado en estudios franceses,0.4,28.0,70.0,2017,4.0
+767,16,183,grado en estudios ingleses,0.3157894736842105,54.0,171.0,2017,4.0
+768,16,184,grado en filologia clasica,0.6875,22.0,32.0,2017,4.0
+769,16,185,grado en lengua y literatura alemanas,0.3,18.0,60.0,2017,4.0
+770,4,188,grado en antropologia social y cultural,0.5,32.0,64.0,2017,4.0
+771,21,190,grado en bellas artes,0.14444444444444443,26.0,180.0,2017,4.0
+772,2,192,grado en comunicacion audiovisual,0.09219858156028368,13.0,141.0,2017,4.0
+773,21,193,grado en conservacion y restauracion de bienes culturales,0.27419354838709675,17.0,62.0,2017,4.0
+774,18,194,grado en educacion infantil,0.07142857142857142,17.0,238.0,2017,4.0
+775,18,195,grado en educacion primaria,0.13070866141732285,83.0,635.0,2017,4.0
+776,17,196,grado en estadistica,0.5098039215686274,26.0,51.0,2017,4.0
+777,45,197,grado en ingenieria aeroespacial,0.16296296296296298,22.0,135.0,2017,4.0
+778,9,198,grado en ingenieria agricola,0.4216417910447761,113.0,268.0,2017,4.0
+779,45,199,grado en ingenieria de las tecnologias de telecomunicacion,0.34972677595628415,64.0,183.0,2017,4.0
+780,23,200,grado en ingenieria electrica,0.29545454545454547,39.0,132.0,2017,4.0
+781,23,201,grado en ingenieria electronica industrial,0.40437158469945356,74.0,183.0,2017,4.0
+782,23,202,grado en ingenieria en diseño industrial y desarrollo del producto,0.3006993006993007,43.0,143.0,2017,4.0
+783,45,203,grado en ingenieria de tecnologias industriales,0.16549295774647887,47.0,284.0,2017,4.0
+784,3,204,grado en ingenieria informatica-ingenieria de computadores,0.6715328467153284,92.0,137.0,2017,4.0
+785,3,205,grado en ingenieria informatica-ingenieria del software,0.32926829268292684,81.0,246.0,2017,4.0
+786,3,206,grado en ingenieria informatica-tecnologias informaticas,0.581151832460733,111.0,191.0,2017,4.0
+787,23,207,grado en ingenieria mecanica,0.22167487684729065,45.0,203.0,2017,4.0
+788,45,208,grado en ingenieria quimica,0.35714285714285715,30.0,84.0,2017,4.0
+789,23,209,grado en ingenieria quimica industrial,0.2833333333333333,34.0,120.0,2017,4.0
+790,2,210,grado en periodismo,0.15412186379928317,43.0,279.0,2017,4.0
+791,2,211,grado en publicidad y relaciones publicas,0.13138686131386862,18.0,137.0,2017,4.0
+792,14,217,grado en biomedicina basica y experimental,0.2,10.0,50.0,2017,4.0
+793,20,218,grado en criminologia,0.14545454545454545,8.0,55.0,2017,4.0
+794,12,219,grado en estudios de asia oriental por la us y la ude malaga,0.20754716981132076,11.0,53.0,2017,4.0
+795,45,221,grado en ingenieria de la energia por la us y la u malaga,0.21875,14.0,64.0,2017,4.0
+796,6,222,grado en ingenieria de materiales,0.1891891891891892,7.0,37.0,2017,4.0
+797,19,223,grado en optica y optometria,0.16666666666666666,9.0,54.0,2017,4.0
+798,5,224,grado en bioquimica por la u de sevilla y u de malaga,0.11428571428571428,8.0,70.0,2017,4.0
+799,45,225,grado en ingenieria civil,0.2911392405063291,23.0,79.0,2017,4.0
+800,3,226,grado en ingenieria de la salud por la u malaga y la usevilla,0.23809523809523808,15.0,63.0,2017,4.0
+801,45,227,grado en ingenieria de organizacion industrial por la u m y us,0.25757575757575757,17.0,66.0,2017,4.0
+802,45,228,grado en ingenieria electronica robotica y mecatronica (uma-us),0.22058823529411764,15.0,68.0,2017,4.0
+803,2,m036,mu en comunicacion y cultura (rd1393/07),0.15789473684210525,3.0,19.0,2017,4.0
+804,302,m037,mu en artes del espectaculo vivo (rd1393/07),0.0625,1.0,16.0,2017,4.0
+805,302,m039,mu en estudios de genero y desarrollo profesional (rd07),0.10344827586206896,3.0,29.0,2017,4.0
+806,15,m040,mu en peritacion y reparacion de edificios,0.05263157894736842,1.0,19.0,2017,4.0
+807,13,m041,mu en psicologia de las organizaciones y del trabajo (07),0.12903225806451613,4.0,31.0,2017,4.0
+808,15,m043,mu en urbanismo planeamiento y diseño urbano ,0.05,1.0,20.0,2017,1.0
+809,302,m044,mu profesorado de eso y bachillerato f p y ede idiomas ,0.03827751196172249,16.0,418.0,2017,1.0
+810,302,m048,mu en gestion de las tec de la informacion y de las comu,0.0,0.0,14.0,2017,1.0
+811,18,m049,mu en actividad fisica y cdad de vida de perso adultas y mayo,0.13333333333333333,2.0,15.0,2017,1.0
+812,4,m050,mu en arqueologia (rd1393/07),0.1111111111111111,3.0,27.0,2017,1.0
+813,15,m051,mu en arquitectura y patrimonio historico (rd1393/07),0.023809523809523808,1.0,42.0,2017,1.0
+814,21,m052,mu en arte: idea y produccion (rd1393/07),0.15384615384615385,2.0,13.0,2017,1.0
+815,302,m056,mu en ciencia y tecnologia de nuevos materiales (rd1393/07),0.21052631578947367,4.0,19.0,2017,2.0
+816,1,m060,mu en consultoria economica y analisis aplicado (rd1393/07),0.0,0.0,23.0,2017,1.0
+817,20,m061,mu en derecho constitucional (rd1393/07),0.15384615384615385,4.0,26.0,2017,1.0
+818,20,m062,mu en derecho publico (rd1393/07),0.05263157894736842,1.0,19.0,2017,
+819,7,m063,mu en direccion y planificacion del turismo (rd1393/07),0.06896551724137931,2.0,29.0,2017,
+820,18,m064,mu en direccion evaluacion y calidad de las instituciones de for,0.2,4.0,20.0,2017,
+821,4,m067,mu en documentos y libros archivos y bibliotecas ,0.0,0.0,35.0,2017,
+822,1,m068,mu en economia y desarrollo (rd1393/07),0.25,2.0,8.0,2017,
+823,16,m070,mu en endel español como l extranjera y de otras l modernas ,0.1891891891891892,7.0,37.0,2017,
+824,2,m071,mu en escritura creativa (rd1393/07),0.2413793103448276,7.0,29.0,2017,
+825,13,m073,mu en estudios avanzados en cerebro y conducta ,0.037037037037037035,1.0,27.0,2017,
+826,22,m075,mu en estudios avanzados en quimica (rd1393/07),0.0,0.0,16.0,2017,
+827,16,m076,mu en estudios hispanicos superiores (rd1393/07),0.058823529411764705,2.0,34.0,2017,
+828,6,m082,mu en fisica nuclear (master interuniversitario) (rd1393/07),0.125,2.0,16.0,2017,
+829,302,m083,mu en fisiologia y neurociencia (rd1393/07),0.15384615384615385,4.0,26.0,2017,
+830,1,m085,mu en gestion estrategica y negocios internacionales ,0.07142857142857142,2.0,28.0,2017,
+831,98,m086,mu en gestion integral de la edificacion (rd1393/07),0.07142857142857142,1.0,14.0,2017,
+832,8,m087,mu en gestion y desarrollo de recursos humanos,0.16129032258064516,5.0,31.0,2017,
+833,2,m088,mu en guion narrativa y creatividad audiovisual (rd1393/07),0.0,0.0,27.0,2017,
+834,3,m090,mu en ingenieria y tecnologia del software,0.3333333333333333,5.0,15.0,2017,
+835,13,m092,mu en intervencion y mediacion familiar (rd1393/07),0.1,3.0,30.0,2017,
+836,3,m095,mu en logica computacion e inteligencia artificial ,0.17857142857142858,5.0,28.0,2017,
+837,6,m099,mu en microelectronica: dño y appsde sistemas m/nano,0.2777777777777778,5.0,18.0,2017,
+838,11,m100,mu en nuevas tendencias asistenciales en ciencias de la salud,0.09803921568627451,5.0,51.0,2017,
+839,4,m103,mu en patrimonio artistico andaluz y su proy iberoamericana ,0.0,0.0,14.0,2017,
+840,13,m104,mu en psi de la edu avances en inter psicoedu y ne esp,0.02857142857142857,1.0,35.0,2017,
+841,13,m105,mu en psicologia de la intervencion social y comunitaria,0.05714285714285714,2.0,35.0,2017,
+842,20,m106,mu en relaciones juridico-privadas (rd1393/07),0.0,0.0,10.0,2017,
+843,98,m107,mu en seguridad integral en edificacion (rd1393/07),0.0,0.0,22.0,2017,
+844,23,m108,mu en seguridad integral en la industria y prev rrll,0.058823529411764705,2.0,34.0,2017,
+845,2,m114,mu en comunicacion institucional y politica (rd1393/2007),0.06060606060606061,2.0,33.0,2017,
+846,12,m115,mu en filosofia y cultura moderna (rd1393/2007),0.12,3.0,25.0,2017,
+847,4,m117,mu en antropologia: gestion de la diver cul el patr y el des ,0.09090909090909091,2.0,22.0,2017,
+848,4,m121,mu en estudios americanos (rd1393/2007),0.06666666666666667,2.0,30.0,2017,
+849,20,m122,mu en abogacia (rd 1393/2007),0.012048192771084338,1.0,83.0,2017,
+850,20,m123,mu en asesoria juridico-mercantil fiscal y laboral ,0.03571428571428571,1.0,28.0,2017,
+851,8,m125,mu en consultoria laboral,0.043478260869565216,1.0,23.0,2017,
+852,14,m127,mu en investigacion medica: clinica y experimental ,0.11428571428571428,4.0,35.0,2017,
+853,13,m133,mu en migraciones internacionales salud y bienestar: modelos y estrategias de intervencion,0.09523809523809523,2.0,21.0,2017,
+854,19,m134,mu en especializacion profesional en farmacia,0.03333333333333333,1.0,30.0,2017,
+855,4,m135,m u en estudios historicos avanzados,0.13157894736842105,5.0,38.0,2017,
+856,5,m136,mu en biologia avanzada: investigacion y aplicacion,0.14285714285714285,4.0,28.0,2017,
+857,16,m137,mu en estudios lingüisticos literarios y culturales por la us,0.11764705882352941,6.0,51.0,2017,
+858,18,m138,mu en psicopedagogia,0.05172413793103448,3.0,58.0,2017,
+859,18,m139,mu en neceducespecy atena la divad en la escuela por la us ,0.03571428571428571,1.0,28.0,2017,
+860,13,m141,mu en psicologia general sanitaria por la universidad de sevilla,0.05128205128205128,2.0,39.0,2017,
+861,45,m142,mu en ingenieria de telecomunicacion por la u de sevilla ,0.041666666666666664,1.0,24.0,2017,
+862,45,m143,mu en ingenieria aeronautica por la universidad de sevilla ,0.025,1.0,40.0,2017,
+863,45,m144,mu en ingenieria quimica por la universidad de sevilla,0.0,0.0,10.0,2017,
+864,45,m145,mu en ingenieria de caminos canales y puertos por la u s,0.07142857142857142,3.0,42.0,2017,
+865,45,m146,mu en ingenieria industrial por la universidad de sevilla,0.09615384615384616,15.0,156.0,2017,
+866,3,m147,mu en ingenieria informatica,0.0,0.0,5.0,2017,
+867,23,m148,mu en tecnologia e industria alimentaria por la us,0.08,2.0,25.0,2017,
+868,302,m149,mu en sist inteligentes en ener y transporte por la usy la um,0.3333333333333333,3.0,9.0,2017,
+869,9,m150,master universitario en ingenieria agronomica,0.045454545454545456,1.0,22.0,2017,
+870,15,m153,mu en arquitectura ,0.0,0.0,37.0,2017,
+871,1,m154,master universitario en auditoria y contabilidad superior,0.043478260869565216,1.0,23.0,2017,
+872,45,m155,mu en diseño avanzado en ingenieria mecanica ,0.16666666666666666,2.0,12.0,2017,
+873,18,m156,mu en formacion y orientacion para el trabajo,0.0,0.0,24.0,2017,
+874,302,m157,master universitario genetica molecular y biotecnologia,0.0,0.0,30.0,2017,
+875,4,m158,m u en gestion del territorio instrumentos y tecnicas de intervenc ,0.0,0.0,7.0,2017,
+876,45,m159,mu en ingenieria ambiental,0.0,0.0,25.0,2017,
+877,45,m160,mu en ingenieria electronica robotica y automatica ,0.24,6.0,25.0,2017,
+878,302,m161,master universitario en investigacion biomedica,0.029411764705882353,1.0,34.0,2017,
+879,17,m162,master universitario en matematicas,0.0,0.0,17.0,2017,
+880,45,m163,mu en organizacion industrial y gestion de empresas ,0.10714285714285714,3.0,28.0,2017,
+881,45,m164,mu en sistemas de energia electrica ,0.047619047619047616,1.0,21.0,2017,
+882,45,m165,mu en sistemas de energia termica ,0.0,0.0,12.0,2017,
+883,15,m166,mu en ciudad y arquitectura sostenibles ,0.10526315789473684,2.0,19.0,2017,
+884,26,526,grado en enfermeria,0.17647058823529413,12.0,68.0,2017,
+885,28,527,grado en enfermeria,0.19480519480519481,15.0,77.0,2017,
+886,28,528,grado en finanzas y contabilidad,0.41025641025641024,16.0,39.0,2017,
+887,28,529,grado en relaciones laborales y recursos humanos,0.32432432432432434,12.0,37.0,2017,
+888,148,531,grado en enfermeria,0.109375,7.0,64.0,2017,
+889,38,532,grado en turismo,0.3157894736842105,6.0,19.0,2017,
+890,38,537,grado en publicidad y relaciones publicas,0.15555555555555556,7.0,45.0,2017,
+891,38,538,grado en periodismo,0.3157894736842105,12.0,38.0,2017,
+892,38,539,grado en comunicacion audiovisual,0.2391304347826087,11.0,46.0,2017,
+893,28,541,grado en educacion primaria,0.24444444444444444,11.0,45.0,2017,
+894,28,542,grado en fisioterapia,0.2982456140350877,17.0,57.0,2017,
+895,28,544,grado en educacion infantil,0.1282051282051282,5.0,39.0,2017,
+896,28,m547,mu en profesorado de eso bachiller fp y enseñanzas de idiomas  ,0.0,0.0,100.0,2017,
+897,1,151,grado en administracion y direccion de empresas,0.3621013133208255,193.0,533.0,2016,4.0
+898,5,153,grado en biologia,0.19831223628691982,47.0,237.0,2016,4.0
+899,18,154,grado en ciencias de la actividad fisica y del deporte,0.07936507936507936,5.0,63.0,2016,4.0
+900,20,155,grado en derecho,0.128060263653484,68.0,531.0,2016,4.0
+901,1,156,grado en economia,0.1791044776119403,24.0,134.0,2016,4.0
+902,11,157,grado en enfermeria,0.12340425531914893,29.0,235.0,2016,4.0
+903,19,158,grado en farmacia,0.14527027027027026,43.0,296.0,2016,4.0
+904,16,159,grado en filologia hispanica,0.34234234234234234,38.0,111.0,2016,4.0
+905,12,160,grado en filosofia,0.36904761904761907,31.0,84.0,2016,4.0
+906,7,161,grado en finanzas y contabilidad,0.4196078431372549,214.0,510.0,2016,4.0
+907,6,162,grado en fisica,0.41414141414141414,41.0,99.0,2016,4.0
+908,11,163,grado en fisioterapia,0.1717171717171717,17.0,99.0,2016,4.0
+909,4,164,grado en geografia y gestion del territorio,0.23214285714285715,13.0,56.0,2016,4.0
+910,20,165,grado en gestion y administracion publica,0.2828282828282828,28.0,99.0,2016,4.0
+911,4,166,grado en historia,0.3407821229050279,61.0,179.0,2016,4.0
+912,4,167,grado en historia del arte,0.3551912568306011,65.0,183.0,2016,4.0
+913,17,171,grado en matematicas,0.41007194244604317,57.0,139.0,2016,6.0
+914,14,172,grado en medicina,0.09289617486338798,34.0,366.0,2016,5.0
+915,10,173,grado en odontologia,0.23655913978494625,22.0,93.0,2016,4.0
+916,18,174,grado en pedagogia,0.11353711790393013,26.0,229.0,2016,4.0
+917,11,175,grado en podologia,0.27941176470588236,19.0,68.0,2016,4.0
+918,13,176,grado en psicologia,0.11379310344827587,33.0,290.0,2016,4.0
+919,22,177,grado en quimica,0.2080536912751678,31.0,149.0,2016,4.0
+920,8,178,grado en relaciones laborales y recursos humanos,0.19827586206896552,46.0,232.0,2016,4.0
+921,7,179,grado en turismo,0.23708206686930092,78.0,329.0,2016,4.0
+922,1,180,grado en marketing e investigacion de mercados,0.408,51.0,125.0,2016,4.0
+923,16,181,grado en estudios arabes e islamicos,0.42857142857142855,21.0,49.0,2016,4.0
+924,16,182,grado en estudios franceses,0.44285714285714284,31.0,70.0,2016,4.0
+925,16,183,grado en estudios ingleses,0.28654970760233917,49.0,171.0,2016,4.0
+926,16,184,grado en filologia clasica,0.6521739130434783,30.0,46.0,2016,4.0
+927,16,185,grado en lengua y literatura alemanas,0.42857142857142855,15.0,35.0,2016,4.0
+928,4,188,grado en antropologia social y cultural,0.3620689655172414,21.0,58.0,2016,4.0
+929,21,190,grado en bellas artes,0.17391304347826086,32.0,184.0,2016,4.0
+930,2,192,grado en comunicacion audiovisual,0.15492957746478872,22.0,142.0,2016,4.0
+931,21,193,grado en conservacion y restauracion de bienes culturales,0.3114754098360656,19.0,61.0,2016,4.0
+932,18,194,grado en educacion infantil,0.05909090909090909,13.0,220.0,2016,4.0
+933,18,195,grado en educacion primaria,0.12417218543046357,75.0,604.0,2016,4.0
+934,17,196,grado en estadistica,0.5,17.0,34.0,2016,4.0
+935,45,197,grado en ingenieria aeroespacial,0.171875,22.0,128.0,2016,4.0
+936,9,198,grado en ingenieria agricola,0.43272727272727274,119.0,275.0,2016,4.0
+937,45,199,grado en ingenieria de las tecnologias de telecomunicacion,0.3068181818181818,54.0,176.0,2016,4.0
+938,23,200,grado en ingenieria electrica,0.4146341463414634,34.0,82.0,2016,4.0
+939,23,201,grado en ingenieria electronica industrial,0.4676258992805755,65.0,139.0,2016,4.0
+940,23,202,grado en ingenieria en diseño industrial y desarrollo del producto,0.35294117647058826,48.0,136.0,2016,4.0
+941,45,203,grado en ingenieria de tecnologias industriales,0.15867158671586715,43.0,271.0,2016,4.0
+942,3,204,grado en ingenieria informatica-ingenieria de computadores,0.73,73.0,100.0,2016,4.0
+943,3,205,grado en ingenieria informatica-ingenieria del software,0.35185185185185186,76.0,216.0,2016,4.0
+944,3,206,grado en ingenieria informatica-tecnologias informaticas,0.6690140845070423,95.0,142.0,2016,4.0
+945,23,207,grado en ingenieria mecanica,0.35403726708074534,57.0,161.0,2016,4.0
+946,45,208,grado en ingenieria quimica,0.4430379746835443,35.0,79.0,2016,4.0
+947,23,209,grado en ingenieria quimica industrial,0.37037037037037035,30.0,81.0,2016,4.0
+948,2,210,grado en periodismo,0.08363636363636363,23.0,275.0,2016,4.0
+949,2,211,grado en publicidad y relaciones publicas,0.09154929577464789,13.0,142.0,2016,4.0
+950,14,217,grado en biomedicina basica y experimental,0.24489795918367346,12.0,49.0,2016,4.0
+951,20,218,grado en criminologia,0.10344827586206896,6.0,58.0,2016,4.0
+952,12,219,grado en estudios de asia oriental,0.19642857142857142,11.0,56.0,2016,4.0
+953,40,221,grado en ingenieria de la energia,0.16901408450704225,12.0,71.0,2016,4.0
+954,6,222,grado en ingenieria de materiales,0.26666666666666666,12.0,45.0,2016,1.0
+955,19,223,grado en optica y optometria,0.07692307692307693,4.0,52.0,2016,1.0
+956,5,224,grado en bioquimica por la u de sevilla y u de malaga,0.18,9.0,50.0,2016,1.0
+957,45,225,grado en ingenieria civil,0.2,15.0,75.0,2016,1.0
+958,3,226,grado en ingenieria de la salud,0.3230769230769231,21.0,65.0,2016,1.0
+959,45,227,grado en ingenieria de organizacion industrial,0.28125,18.0,64.0,2016,1.0
+960,45,228,grado en ingenieria electronica robotica y mecatronica,0.2857142857142857,18.0,63.0,2016,1.0
+961,2,m036,mu en comunicacion y cultura (rd1393/07),0.0,0.0,19.0,2016,
+962,302,m037,mu en artes del espectaculo vivo (rd1393/07),0.058823529411764705,1.0,17.0,2016,
+963,302,m039,mu en estudios de genero y desarrollo profesional (rd07),0.08,2.0,25.0,2016,
+964,15,m040,mu en peritacion y reparacion de edificios,0.1,2.0,20.0,2016,
+965,13,m041,mu en psicologia de las organizaciones y del trabajo (07),0.047619047619047616,1.0,21.0,2016,
+966,15,m043,mu en urbanismo planeamiento y diseño urbano ,0.25,2.0,8.0,2016,
+967,302,m044,mu profesorado de eso y bachillerato f p y ede idiomas ,0.02564102564102564,11.0,429.0,2016,
+968,302,m048,mu en gestion de las tec de la informacion y de las comu,0.0,0.0,12.0,2016,
+969,18,m049,mu en actividad fisica y cdad de vida de perso adultas y mayo,0.16666666666666666,4.0,24.0,2016,
+970,4,m050,mu en arqueologia (rd1393/07),0.08333333333333333,2.0,24.0,2016,
+971,15,m051,mu en arquitectura y patrimonio historico (rd1393/07),0.023255813953488372,1.0,43.0,2016,
+972,21,m052,mu en arte: idea y produccion (rd1393/07),0.08,2.0,25.0,2016,
+973,302,m056,mu en ciencia y tecnologia de nuevos materiales (rd1393/07),0.23809523809523808,5.0,21.0,2016,
+974,1,m060,mu en consultoria economica y analisis aplicado (rd1393/07),0.13043478260869565,3.0,23.0,2016,
+975,20,m061,mu en derecho constitucional (rd1393/07),0.07692307692307693,1.0,13.0,2016,
+976,20,m062,mu en derecho publico (rd1393/07),0.0,0.0,12.0,2016,
+977,7,m063,mu en direccion y planificacion del turismo (rd1393/07),0.06896551724137931,2.0,29.0,2016,
+978,18,m064,mu en direccion evaluacion y calidad de las instituciones de for,0.2692307692307692,7.0,26.0,2016,
+979,23,m066,mu en instalaciones y diseño de productos (rd1393/07),0.2,2.0,10.0,2016,
+980,4,m067,mu en documentos y libros archivos y bibliotecas ,0.10810810810810811,4.0,37.0,2016,
+981,1,m068,mu en economia y desarrollo (rd1393/07),0.16666666666666666,3.0,18.0,2016,
+982,16,m070,mu en endel español como l extranjera y de otras l modernas ,0.19047619047619047,8.0,42.0,2016,
+983,2,m071,mu en escritura creativa (rd1393/07),0.043478260869565216,1.0,23.0,2016,
+984,13,m073,mu en estudios avanzados en cerebro y conducta ,0.034482758620689655,1.0,29.0,2016,
+985,1,m074,mu en estudios avanzados en direccion de empresas,0.3333333333333333,8.0,24.0,2016,
+986,22,m075,mu en estudios avanzados en quimica (rd1393/07),0.1111111111111111,1.0,9.0,2016,
+987,16,m076,mu en estudios hispanicos superiores (rd1393/07),0.1,3.0,30.0,2016,
+988,6,m082,mu en fisica nuclear (master interuniversitario) (rd1393/07),0.375,3.0,8.0,2016,
+989,302,m083,mu en fisiologia y neurociencia (rd1393/07),0.03571428571428571,1.0,28.0,2016,
+990,1,m085,mu en gestion estrategica y negocios internacionales ,0.034482758620689655,1.0,29.0,2016,
+991,98,m086,mu en gestion integral de la edificacion (rd1393/07),0.19047619047619047,4.0,21.0,2016,
+992,8,m087,mu en gestion y desarrollo de recursos humanos,0.0,0.0,30.0,2016,
+993,2,m088,mu en guion narrativa y creatividad audiovisual (rd1393/07),0.07142857142857142,2.0,28.0,2016,
+994,3,m089,mu en ingenieria de computadores y redes (rd1393/07),0.0,0.0,6.0,2016,
+995,3,m090,mu en ingenieria y tecnologia del software (rd1393/07),0.1111111111111111,2.0,18.0,2016,
+996,13,m092,mu en intervencion y mediacion familiar (rd1393/07),0.06666666666666667,2.0,30.0,2016,
+997,3,m095,mu en logica computacion e inteligencia artificial ,0.2727272727272727,3.0,11.0,2016,
+998,6,m099,mu en microelectronica: dño y appsde sistemas m/nano,0.4666666666666667,7.0,15.0,2016,
+999,11,m100,mu en nuevas tendencias asistenciales en ciencias de la salud,0.20512820512820512,8.0,39.0,2016,
+1000,4,m103,mu en patrimonio artistico andaluz y su proy iberoamericana ,0.06666666666666667,1.0,15.0,2016,
+1001,13,m104,mu en psi de la edu avances en inter psicoedu y ne esp,0.0,0.0,35.0,2016,
+1002,13,m105,mu en psicologia de la intervencion social y comunitaria,0.02702702702702703,1.0,37.0,2016,
+1003,20,m106,mu en relaciones juridico-privadas (rd1393/07),0.1111111111111111,2.0,18.0,2016,
+1004,98,m107,mu en seguridad integral en edificacion (rd1393/07),0.16666666666666666,3.0,18.0,2016,
+1005,23,m108,mu en seguridad integral en la industria y prev rrll,0.05714285714285714,2.0,35.0,2016,
+1006,16,m112,mu en traduccion e interculturalidad (rd1393/07),0.0625,1.0,16.0,2016,
+1007,8,m113,mu en ciencias del trabajo (rd1393/2007),0.375,3.0,8.0,2016,
+1008,2,m114,mu en comunicacion institucional y politica (rd1393/2007),0.11538461538461539,3.0,26.0,2016,
+1009,12,m115,mu en filosofia y cultura moderna (rd1393/2007),0.05263157894736842,1.0,19.0,2016,
+1010,4,m117,mu en antropologia: gestion de la diver cul el patr y el des ,0.2222222222222222,4.0,18.0,2016,
+1011,4,m121,mu en estudios americanos (rd1393/2007),0.045454545454545456,1.0,22.0,2016,
+1012,20,m122,mu en abogacia (rd 1393/2007),0.011764705882352941,1.0,85.0,2016,
+1013,20,m123,mu en asesoria juridico-mercantil fiscal y laboral ,0.20833333333333334,5.0,24.0,2016,
+1014,8,m125,mu en consultoria laboral,0.06666666666666667,2.0,30.0,2016,
+1015,302,m126,mu en estudios europeos (2012) rd 1393/2007,0.06666666666666667,1.0,15.0,2016,
+1016,14,m127,mu en investigacion medica: clinica y experimental ,0.17647058823529413,3.0,17.0,2016,
+1017,13,m133,mu en migraciones internacionales salud y bienestar: modelos y estrategias de intervencion,0.0,0.0,5.0,2016,
+1018,19,m134,mu en especializacion profesional en farmacia,0.10256410256410256,4.0,39.0,2016,
+1019,4,m135,m u en estudios historicos avanzados,0.12121212121212122,4.0,33.0,2016,
+1020,5,m136,mu en biologia avanzada: investigacion y aplicacion,0.037037037037037035,1.0,27.0,2016,
+1021,16,m137,mu en estudios lingüisticos literarios y culturales por la us,0.11538461538461539,3.0,26.0,2016,
+1022,18,m138,mu en psicopedagogia,0.0,0.0,59.0,2016,
+1023,18,m139,mu en neceducespecy atena la divad en la escuela por la us ,0.0,0.0,30.0,2016,
+1024,13,m141,mu en psicologia general sanitaria por la universidad de sevilla,0.0,0.0,39.0,2016,
+1025,45,m142,mu en ingenieria de telecomunicacion por la u de sevilla ,0.0,0.0,14.0,2016,
+1026,45,m143,mu en ingenieria aeronautica por la universidad de sevilla ,0.03225806451612903,1.0,31.0,2016,
+1027,45,m144,mu en ingenieria quimica por la universidad de sevilla,0.0,0.0,10.0,2016,
+1028,45,m145,mu en ingenieria de caminos canales y puertos por la u s,0.16279069767441862,7.0,43.0,2016,
+1029,45,m146,mu en ingenieria industrial por la universidad de sevilla,0.05263157894736842,5.0,95.0,2016,
+1030,3,m147,mu en ingenieria informatica,0.0,0.0,7.0,2016,
+1031,23,m148,mu en tecnologia e industria alimentaria por la us,0.05714285714285714,2.0,35.0,2016,
+1032,302,m149,mu en sist inteligentes en ener y transporte por la usy la um,0.1,1.0,10.0,2016,
+1033,15,m153,mu en arquitectura ,0.0,0.0,23.0,2016,
+1034,302,m161,master universitario en investigacion biomedica,0.0,0.0,38.0,2016,
+1035,17,m162,master universitario en matematicas,0.0,0.0,9.0,2016,
+1036,1,151,grado en administracion y direccion de empresas,0.3392156862745098,,,2015,4.0
+1037,5,153,grado en biologia,0.15444015444015444,,,2015,4.0
+1038,18,154,grado en ciencias de la actividad fisica y del deporte,0.11475409836065574,,,2015,4.0
+1039,20,155,grado en derecho,0.17805383022774326,,,2015,4.0
+1040,1,156,grado en economia,0.22784810126582278,,,2015,4.0
+1041,11,157,grado en enfermeria,0.132,,,2015,4.0
+1042,19,158,grado en farmacia,0.19230769230769232,,,2015,4.0
+1043,16,159,grado en filologia hispanica,0.25663716814159293,,,2015,4.0
+1044,12,160,grado en filosofia,0.2962962962962963,,,2015,4.0
+1045,7,161,grado en finanzas y contabilidad,0.47435897435897434,,,2015,4.0
+1046,6,162,grado en fisica,0.4,,,2015,4.0
+1047,11,163,grado en fisioterapia,0.1414141414141414,,,2015,4.0
+1048,4,164,grado en geografia y gestion del territorio,0.2542372881355932,,,2015,4.0
+1049,20,165,grado en gestion y administracion publica,0.26666666666666666,,,2015,4.0
+1050,4,166,grado en historia,0.25595238095238093,,,2015,4.0
+1051,4,167,grado en historia del arte,0.31216931216931215,,,2015,4.0
+1052,98,168,grado en ciencia y tecnologia de edificacion,0.26616915422885573,,,2015,6.0
+1053,17,171,grado en matematicas,0.2727272727272727,,,2015,5.0
+1054,14,172,grado en medicina,0.08333333333333333,,,2015,4.0
+1055,10,173,grado en odontologia,0.10227272727272728,,,2015,4.0
+1056,18,174,grado en pedagogia,0.1934156378600823,,,2015,4.0
+1057,11,175,grado en podologia,0.1267605633802817,,,2015,4.0
+1058,13,176,grado en psicologia,0.12944983818770225,,,2015,4.0
+1059,22,177,grado en quimica,0.19402985074626866,,,2015,4.0
+1060,8,178,grado en relaciones laborales y recursos humanos,0.18181818181818182,,,2015,4.0
+1061,7,179,grado en turismo,0.1994219653179191,,,2015,4.0
+1062,1,180,grado en marketing e investigacion de mercados,0.35772357723577236,,,2015,4.0
+1063,16,181,grado en estudios arabes e islamicos,0.3103448275862069,,,2015,4.0
+1064,16,182,grado en estudios franceses,0.37142857142857144,,,2015,4.0
+1065,16,183,grado en estudios ingleses,0.25555555555555554,,,2015,4.0
+1066,16,184,grado en filologia clasica,0.5,,,2015,4.0
+1067,16,185,grado en lengua y literatura alemanas,0.325,,,2015,4.0
+1068,4,188,grado en antropologia social y cultural,0.3684210526315789,,,2015,4.0
+1069,21,190,grado en bellas artes,0.22702702702702704,,,2015,4.0
+1070,2,192,grado en comunicacion audiovisual,0.11486486486486487,,,2015,4.0
+1071,21,193,grado en conservacion y restauracion de bienes culturales,0.26229508196721313,,,2015,4.0
+1072,18,194,grado en educacion infantil,0.08438818565400844,,,2015,4.0
+1073,18,195,grado en educacion primaria,0.1141552511415525,,,2015,4.0
+1074,17,196,grado en estadistica,0.41025641025641024,,,2015,4.0
+1075,45,197,grado en ingenieria aeroespacial,0.07586206896551724,,,2015,4.0
+1076,9,198,grado en ingenieria agricola,0.383399209486166,,,2015,4.0
+1077,45,199,grado en ingenieria de las tecnologias de telecomunicacion,0.18981481481481483,,,2015,4.0
+1078,23,200,grado en ingenieria electrica,0.3764705882352941,,,2015,4.0
+1079,23,201,grado en ingenieria electronica industrial,0.47101449275362317,,,2015,4.0
+1080,23,202,grado en ingenieria en diseño industrial y desarrollo del producto,0.2529411764705882,,,2015,4.0
+1081,45,203,grado en ingenieria de tecnologias industriales,0.16708229426433915,,,2015,4.0
+1082,3,204,grado en ingenieria informatica-ingenieria de computadores,0.5566037735849056,,,2015,4.0
+1083,3,205,grado en ingenieria informatica-ingenieria del software,0.3333333333333333,,,2015,4.0
+1084,3,206,grado en ingenieria informatica-tecnologias informaticas,0.5418994413407822,,,2015,4.0
+1085,23,207,grado en ingenieria mecanica,0.30386740331491713,,,2015,4.0
+1086,45,208,grado en ingenieria quimica,0.2127659574468085,,,2015,4.0
+1087,23,209,grado en ingenieria quimica industrial,0.45454545454545453,,,2015,4.0
+1088,2,210,grado en periodismo,0.12544802867383512,,,2015,4.0
+1089,2,211,grado en publicidad y relaciones publicas,0.06802721088435375,,,2015,4.0
+1090,14,217,grado en biomedicina basica y experimental,0.125,,,2015,4.0
+1091,20,218,grado en criminologia,0.08196721311475409,,,2015,4.0
+1092,12,219,grado en estudios de asia oriental por la unvde sevilla y la unvde malaga,0.15,,,2015,4.0
+1093,45,221,grado en ingenieria de la energia por la un de sevilla y la un de malaga,0.203125,,,2015,4.0
+1094,6,222,grado en ingenieria de materiales,0.4722222222222222,,,2015,
+1095,19,223,grado en optica y optometria,0.2222222222222222,,,2015,
+1096,5,224,grado en bioquimica por la universidad de sevilla y universidad de malaga,0.11538461538461539,,,2015,
+1097,45,225,grado en ingenieria civil,0.1506849315068493,,,2015,
+1098,3,226,grado en ingenieria de la salud por la univ de malaga y la univde sevilla,0.21311475409836064,,,2015,
+1099,45,227,grado en ingenieria de organizacion industrial por la u malaga y usevilla,0.3103448275862069,,,2015,
+1100,45,228,grado en ingenieria electronica robotica y mecatronica (uma-us),0.203125,,,2015,
+1101,2,m036,m u en comunicacion y cultura,0.1,,,2015,
+1102,302,m037,m u en artes del espectaculo vivo,0.1111111111111111,,,2015,
+1103,302,m039,m u en estudios de genero y desarrollo profesional,0.125,,,2015,
+1104,15,m040,m u en peritacion y reparacion de edificios,0.14285714285714285,,,2015,
+1105,13,m041,m u en psicologia de las organizaciones y del trabajo,0.03333333333333333,,,2015,
+1106,15,m042,m u en innovacion en arquitectura: tecnologia y diseño,0.19047619047619047,,,2015,
+1107,15,m043,m u en urbanismo planeamiento y diseño urbano,0.18181818181818182,,,2015,
+1108,302,m044,m u en profesorado de eso y bachillerato fp y eidiomas,0.014492753623188406,,,2015,
+1109,302,m048,m u en gestion de las tecnologias de la informy de las com,0.0,,,2015,
+1110,18,m049,m u en actividad fisica y calidad de vida de personas adul,0.08333333333333333,,,2015,
+1111,4,m050,m u en arqueologia,0.1875,,,2015,
+1112,15,m051,m u en arquitectura y patrimonio historico,0.05714285714285714,,,2015,
+1113,21,m052,m u en arte: idea y produccion,0.03125,,,2015,
+1114,45,m054,m u en automatica robotica y telematica,0.2,,,2015,
+1115,302,m056,m u en ciencia y tecnologia de nuevos materiales,0.0,,,2015,
+1116,10,m058,m u en ciencias odontologicas,0.0,,,2015,
+1117,15,m059,m u en ciudad y arquitectura sostenibles,0.0,,,2015,
+1118,1,m060,m u en consultoria economica y analisis aplicado,0.1,,,2015,
+1119,20,m061,m u en derecho constitucional,0.10526315789473684,,,2015,
+1120,20,m062,m u en derecho publico,0.06666666666666667,,,2015,
+1121,7,m063,m u en direccion y planificacion del turismo,0.08,,,2015,
+1122,18,m064,m u en direccion evaluacion y calidad de las instituc de for,0.09523809523809523,,,2015,
+1123,45,m065,m u en diseño avanzado en ingenieria mecanica,0.22727272727272727,,,2015,
+1124,23,m066,m u en instalaciones y diseño de productos,0.14285714285714285,,,2015,
+1125,4,m067,m u en documentos y libros archivos y bibliotecas,0.0,,,2015,
+1126,1,m068,m u en economia y desarrollo,0.18181818181818182,,,2015,
+1127,45,m069,m u en electronica tratamiento de señal y comunicaciones,0.2727272727272727,,,2015,
+1128,16,m070,m u en enseñanza del español como lengua extranjera y otras lengmod,0.0,,,2015,
+1129,2,m071,m u en escritura creativa,0.13793103448275862,,,2015,
+1130,13,m073,m u en estudios avanzados en cerebro y conducta,0.0,,,2015,
+1131,1,m074,m u en estudios avanzados en direccion de empresas,0.16666666666666666,,,2015,
+1132,22,m075,m u en estudios avanzados en quimica,0.0,,,2015,
+1133,16,m076,m u en estudios hispanicos superiores,0.0,,,2015,
+1134,6,m082,m u en fisica nuclear,0.0,,,2015,
+1135,302,m083,m u en fisiologia y neurociencia,0.0,,,2015,
+1136,1,m085,m u en gestion estrategica y negocios internacionales,0.10714285714285714,,,2015,
+1137,98,m086,m u en gestion integral de la edificacion,0.23529411764705882,,,2015,
+1138,8,m087,m u en gestion y desarrollo de recursos humanos,0.0,,,2015,
+1139,2,m088,m u en guion narrativa y creatividad audiovisual,0.043478260869565216,,,2015,
+1140,3,m089,m u en ingenieria de computadores y redes,0.09090909090909091,,,2015,
+1141,3,m090,m u en ingenieria y tecnologia del software,0.25,,,2015,
+1142,13,m092,m u en intervencion y mediacion familiar,0.0,,,2015,
+1143,3,m095,m u en logica computacion e inteligencia artificial,0.14285714285714285,,,2015,
+1144,6,m099,m u en microelectronica: diseño y aplicaciones de sistemas,0.45454545454545453,,,2015,
+1145,11,m100,m u en nuevas tendencias asistenciales en cc de la salud,0.05128205128205128,,,2015,
+1146,4,m101,m u en ordenacion y gestion del desarrollo territorial y local,0.0,,,2015,
+1147,45,m102,m u en organizacion industrial y gestion de empresas,0.1111111111111111,,,2015,
+1148,4,m103,m u en patrimonio artistico andaluz y su proyeccion iberoameric,0.05263157894736842,,,2015,
+1149,13,m104,m u en psicologia de la educacion avances en intervencion,0.02857142857142857,,,2015,
+1150,13,m105,m u en psicologia de la intervencion social y comunitaria,0.058823529411764705,,,2015,
+1151,20,m106,m u en relaciones juridico-privadas,0.2222222222222222,,,2015,
+1152,98,m107,m u en seguridad integral en edificacion,0.058823529411764705,,,2015,
+1153,23,m108,m u en seguridad integral en la industria y prevencion riesgos laborales,0.11904761904761904,,,2015,
+1154,45,m109,m u en sistemas de energia electrica,0.16666666666666666,,,2015,
+1155,45,m110,m u en sistemas de energia termica,0.0,,,2015,
+1156,45,m111,m u en ingenieria ambiental,0.06666666666666667,,,2015,
+1157,16,m112,m u en traduccion e interculturalidad,0.05555555555555555,,,2015,
+1158,8,m113,m u en ciencias del trabajo,0.0,,,2015,
+1159,2,m114,m u en comunicacion institucional y politica,0.06451612903225806,,,2015,
+1160,12,m115,m u en filosofia y cultura moderna,0.0,,,2015,
+1161,18,m116,m u en formacion y orientacion profesional para el empleo,0.1111111111111111,,,2015,
+1162,4,m117,m u en antropologia: gestion de la diversidad cultural el paty el des,0.0,,,2015,
+1163,4,m121,m u en estudios americanos,0.04,,,2015,
+1164,20,m122,m u en abogacia,0.10344827586206896,,,2015,
+1165,20,m123,m u en asesoria juridico-mercantil fiscal y laboral,0.1875,,,2015,
+1166,8,m125,m u en consultoria laboral,0.16666666666666666,,,2015,
+1167,302,m126,m u en estudios europeos,0.0,,,2015,
+1168,14,m127,m u en investigacion medica: clinica y experimental,0.0,,,2015,
+1169,13,m133,m u en migraciones internacionales salud y bienestar: mod y est de inter,0.0,,,2015,
+1170,19,m134,m u en especializacion profesional en farmacia,0.034482758620689655,,,2015,
+1171,4,m135,m u en estudios historicos avanzados,0.10256410256410256,,,2015,
+1172,5,m136,m u en biologia avanzada: investigacion y aplicacion,0.0,,,2015,
+1173,16,m137,m u en estudios lingüisticos literarios y culturales,0.0625,,,2015,
+1174,18,m138,m u en psicopedagogia,0.018518518518518517,,,2015,
+1175,18,m139,m u en necesid educativas especiales y atencion a la diversen la escuela,0.0,,,2015,
+1176,23,m148,m u en tecnologia e industria alimentaria,0.0,,,2015,
